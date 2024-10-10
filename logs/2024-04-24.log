@@ -1,0 +1,1319 @@
+2024-04-24 11:22:50,110 - INFO - Project started
+2024-04-24 11:22:50,155 - INFO - Sent message: Hello from sender!
+2024-04-24 11:22:50,155 - INFO - Sent message: Hello from sender!
+2024-04-24 11:22:58,154 - INFO - Project started
+2024-04-24 11:22:58,180 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 11:22:58,180 - INFO - Sent message: Hello from sender!
+2024-04-24 11:22:58,180 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 11:22:58,180 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 11:22:58,205 - INFO - Sent message: Message from main
+essage from main'
+2024-04-24 11:22:58,205 - INFO - BY RECEIVER Received message: b'Message from main'
+2024-04-24 11:22:58,205 - INFO - BY RECEIVER Received message: b'Message from main'
+2024-04-24 11:22:58,205 - INFO - Sent message: Message from main
+2024-04-24 11:22:58,205 - INFO - Sent message: Message from main
+2024-04-24 11:22:58,205 - INFO - Sent message: Message from main
+2024-04-24 11:22:58,240 - INFO - Sent message: Message from main
+2024-04-24 11:22:58,240 - INFO - BY RECEIVER Received message: b'Message from main'
+2024-04-24 11:22:58,240 - INFO - Sent message: Message from main
+2024-04-24 11:22:58,240 - INFO - BY RECEIVER Received message: b'Message from main'
+2024-04-24 11:22:58,240 - INFO - Sent message: Message from main
+2024-04-24 11:22:58,240 - INFO - Sent message: Message from main
+essage from main'
+2024-04-24 11:22:58,240 - INFO - BY RECEIVER Received message: b'Message from main'
+2024-04-24 11:22:58,240 - INFO - Main processed message: Message from main
+2024-04-24 11:22:58,240 - INFO - Main processed message: Message from main
+2024-04-24 11:22:58,240 - INFO - Main processed message: Message from main
+2024-04-24 11:22:58,240 - INFO - Main processed message: Message from main
+2024-04-24 11:22:58,255 - INFO - Sent message: Message from sender at 1713937978.2406054
+2024-04-24 11:22:58,255 - INFO - BY RECEIVER Received message: b'Message from sender at 1713937978.2406054'
+2024-04-24 11:22:58,255 - INFO - BY RECEIVER Received message: b'Message from sender at 1713937978.2406054'
+2024-04-24 11:22:58,255 - INFO - Sent message: Message from sender at 1713937978.2406054
+2024-04-24 11:22:58,255 - INFO - Sent message: Message from sender at 1713937978.2406054
+13937978.2406054'
+2024-04-24 11:22:58,255 - INFO - Sent message: Message from sender at 1713937978.2406054
+2024-04-24 11:22:58,255 - INFO - BY RECEIVER Received message: b'Message from sender at 1713937978.2406054'
+2024-04-24 11:22:58,255 - INFO - Main processed message: Message from sender at 1713937978.2406054
+2024-04-24 11:22:58,255 - INFO - Main processed message: Message from sender at 1713937978.2406054
+2024-04-24 11:22:58,255 - INFO - Main processed message: Message from sender at 1713937978.2406054
+2024-04-24 11:22:58,255 - INFO - Main processed message: Message from sender at 1713937978.2406054
+2024-04-24 11:22:58,265 - INFO - Sent message: Message from sender at 1713937978.2622318
+2024-04-24 11:22:58,265 - INFO - Sent message: Message from sender at 1713937978.2622318
+2024-04-24 11:22:58,265 - INFO - BY RECEIVER Received message: b'Message from sender at 1713937978.2622318'
+2024-04-24 11:22:58,265 - INFO - Sent message: Message from sender at 1713937978.2622318
+2024-04-24 11:22:58,265 - INFO - BY RECEIVER Received message: b'Message from sender at 1713937978.2622318'
+2024-04-24 11:22:58,265 - INFO - Sent message: Message from sender at 1713937978.2622318
+2024-04-24 11:22:58,265 - INFO - BY RECEIVER Received message: b'Message from sender at 1713937978.2622318'
+2024-04-24 11:22:58,265 - INFO - BY RECEIVER Received message: b'Message from sender at 1713937978.2622318'
+2024-04-24 11:47:46,096 - INFO - Project started
+2024-04-24 11:49:53,096 - INFO - Project started
+2024-04-24 11:51:50,398 - INFO - Project started
+2024-04-24 11:52:42,125 - INFO - Project started
+2024-04-24 11:55:08,523 - INFO - Project started
+2024-04-24 11:57:58,834 - INFO - Project started
+2024-04-24 11:57:58,892 - INFO - Sent message: Hello from sender!
+2024-04-24 11:57:58,892 - INFO - Sent message: Hello from sender!
+2024-04-24 11:58:56,235 - INFO - Project started
+2024-04-24 11:58:56,266 - INFO - Sent message: Hello from sender!
+2024-04-24 11:58:56,266 - INFO - Sent message: Hello from sender!
+2024-04-24 12:00:18,955 - INFO - Project started
+2024-04-24 12:00:18,983 - INFO - Sent message: Hello from sender!
+2024-04-24 12:00:18,983 - INFO - Sent message: Hello from sender!
+2024-04-24 12:00:18,983 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 12:00:18,983 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 12:00:18,983 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 12:00:19,001 - INFO - Sent message: Message from main
+2024-04-24 12:00:19,001 - INFO - Sent message: Message from main
+2024-04-24 12:00:19,001 - INFO - Sent message: Message from main
+2024-04-24 12:00:19,001 - INFO - Sent message: Message from main
+2024-04-24 12:00:19,001 - INFO - BY RECEIVER Received message: b'Message from main'
+2024-04-24 12:00:19,001 - INFO - BY RECEIVER Received message: b'Message from main'
+2024-04-24 12:00:19,001 - INFO - BY RECEIVER Received message: b'Message from main'
+2024-04-24 12:00:19,018 - INFO - Sent message: Message from main
+2024-04-24 12:00:19,018 - INFO - Sent message: Message from main
+2024-04-24 12:00:19,018 - INFO - Sent message: Message from main
+2024-04-24 12:00:19,018 - INFO - Sent message: Message from main
+2024-04-24 12:03:10,078 - INFO - Project started
+2024-04-24 12:03:10,113 - INFO - Sent message: Hello from sender!
+2024-04-24 12:03:10,113 - INFO - Sent message: Hello from sender!
+2024-04-24 12:03:19,926 - INFO - Project started
+2024-04-24 12:03:19,945 - INFO - Sent message: Hello from sender!
+2024-04-24 12:03:19,945 - INFO - Sent message: Hello from sender!
+2024-04-24 12:03:19,945 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 12:03:19,945 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 12:03:19,945 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 12:03:19,965 - INFO - Sent message: Message from main
+2024-04-24 12:03:19,965 - INFO - Sent message: Message from main
+2024-04-24 12:03:19,965 - INFO - Sent message: Message from main
+2024-04-24 12:03:19,965 - INFO - Sent message: Message from main
+2024-04-24 12:04:03,937 - INFO - Project started
+2024-04-24 12:04:03,960 - INFO - Sent message: Hello from sender!
+2024-04-24 12:04:03,960 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 12:04:03,960 - INFO - Sent message: Hello from sender!
+2024-04-24 12:04:03,960 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 12:04:03,960 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 12:04:03,960 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 12:04:03,960 - INFO - Main processed message: Hello from sender!
+2024-04-24 12:04:03,960 - INFO - Main processed message: Hello from sender!
+2024-04-24 12:04:03,960 - INFO - Main processed message: Hello from sender!
+2024-04-24 12:04:03,960 - INFO - Main processed message: Hello from sender!
+2024-04-24 12:04:03,960 - INFO - Sent message: hii test time 1713940443.9605603
+2024-04-24 12:04:03,960 - INFO - Sent message: hii test time 1713940443.9605603
+2024-04-24 12:04:03,960 - INFO - Sent message: hii test time 1713940443.9605603
+2024-04-24 12:04:03,960 - INFO - Sent message: hii test time 1713940443.9605603
+2024-04-24 12:04:04,021 - INFO - BY RECEIVER Received message: b'Message from main'
+2024-04-24 12:04:04,021 - INFO - Sent message: Message from main
+2024-04-24 12:04:04,021 - INFO - Sent message: Message from main
+essage from main'
+2024-04-24 12:04:04,021 - INFO - BY RECEIVER Received message: b'Message from main'
+2024-04-24 12:04:04,021 - INFO - BY RECEIVER Received message: b'Message from main'
+2024-04-24 12:04:04,021 - INFO - Sent message: Message from main
+2024-04-24 12:04:04,021 - INFO - Sent message: Message from main
+2024-04-24 12:05:29,218 - INFO - Project started
+2024-04-24 12:05:29,234 - INFO - Sent message: Hello from sender!
+2024-04-24 12:05:29,234 - INFO - Sent message: Hello from sender!
+2024-04-24 12:05:29,250 - INFO - Sent message: Message from main
+2024-04-24 12:05:29,250 - INFO - Sent message: Message from main
+2024-04-24 12:05:29,250 - INFO - Sent message: Message from main
+2024-04-24 12:05:29,250 - INFO - Sent message: Message from main
+2024-04-24 12:05:36,459 - INFO - Project started
+2024-04-24 12:05:36,490 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 12:05:36,490 - INFO - Sent message: Hello from sender!
+2024-04-24 12:05:36,490 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 12:05:36,490 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 12:05:36,490 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 12:05:36,492 - INFO - Main processed message: Hello from sender!
+2024-04-24 12:05:36,492 - INFO - Main processed message: Hello from sender!
+2024-04-24 12:05:36,492 - INFO - Main processed message: Hello from sender!
+2024-04-24 12:05:36,492 - INFO - Main processed message: Hello from sender!
+2024-04-24 12:05:36,494 - INFO - Sent message: hii test time 1713940536.4925296
+2024-04-24 12:05:36,494 - INFO - Sent message: hii test time 1713940536.4925296
+2024-04-24 12:05:36,494 - INFO - Sent message: hii test time 1713940536.4925296
+2024-04-24 12:05:36,494 - INFO - Sent message: hii test time 1713940536.4925296
+2024-04-24 12:05:36,526 - INFO - Sent message: Message from main
+essage from main'
+2024-04-24 12:05:36,526 - INFO - BY RECEIVER Received message: b'Message from main'
+2024-04-24 12:05:36,526 - INFO - BY RECEIVER Received message: b'Message from main'
+2024-04-24 12:05:36,526 - INFO - Sent message: Message from main
+2024-04-24 12:05:36,526 - INFO - BY RECEIVER Received message: b'Message from main'
+2024-04-24 12:05:36,526 - INFO - Sent message: Message from main
+2024-04-24 12:05:36,526 - INFO - Sent message: Message from main
+2024-04-24 13:29:43,838 - INFO - Project started
+2024-04-24 13:29:43,871 - INFO - Sent message: Hello from sender!
+2024-04-24 13:29:43,871 - INFO - Sent message: Hello from sender!
+2024-04-24 13:29:43,871 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 13:29:43,871 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 13:29:43,871 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 13:29:43,871 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 13:29:43,871 - INFO - Main processed message: Hello from sender!
+2024-04-24 13:29:43,871 - INFO - Main processed message: Hello from sender!
+2024-04-24 13:29:43,871 - INFO - Main processed message: Hello from sender!
+2024-04-24 13:29:43,871 - INFO - Main processed message: Hello from sender!
+2024-04-24 13:29:43,893 - INFO - Sent message: hii test time 1713945583.8718538
+2024-04-24 13:29:43,893 - INFO - Sent message: hii test time 1713945583.8718538
+2024-04-24 13:29:43,893 - INFO - Sent message: hii test time 1713945583.8718538
+2024-04-24 13:29:43,893 - INFO - Sent message: hii test time 1713945583.8718538
+2024-04-24 13:29:43,944 - INFO - Sent message: Message from main
+2024-04-24 13:29:43,944 - INFO - BY RECEIVER Received message: b'Message from main'
+2024-04-24 13:29:43,944 - INFO - Sent message: Message from main
+2024-04-24 13:29:43,944 - INFO - BY RECEIVER Received message: b'Message from main'
+2024-04-24 13:29:43,944 - INFO - Sent message: Message from main
+essage from main'
+2024-04-24 13:29:43,944 - INFO - BY RECEIVER Received message: b'Message from main'
+2024-04-24 13:29:55,203 - INFO - Project started
+2024-04-24 13:29:55,221 - INFO - BY RECEIVER Received message: b'He2024-04-24 13:29:55,221 - INFO - Sent message: Hello from sender!
+2024-04-24 13:29:55,221 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 13:29:55,221 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 13:29:55,221 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 13:29:55,221 - INFO - Main processed message: Hello from sender!
+2024-04-24 13:29:55,221 - INFO - Main processed message: Hello from sender!
+2024-04-24 13:29:55,221 - INFO - Main processed message: Hello from sender!
+2024-04-24 13:29:55,221 - INFO - Main processed message: Hello from sender!
+2024-04-24 13:29:55,221 - INFO - Sent message: hii test time 1713945595.2210073
+2024-04-24 13:29:55,221 - INFO - Sent message: hii test time 1713945595.2210073
+2024-04-24 13:29:55,221 - INFO - Sent message: hii test time 1713945595.2210073
+2024-04-24 13:29:55,221 - INFO - Sent message: hii test time 1713945595.2210073
+2024-04-24 13:29:55,238 - INFO - Sent message: Message from main
+2024-04-24 13:29:55,238 - INFO - Sent message: Message from main
+2024-04-24 13:29:55,238 - INFO - Sent message: Message from main
+2024-04-24 13:29:55,238 - INFO - BY RECEIVER Received message: b'Message from main'
+2024-04-24 13:29:55,238 - INFO - Sent message: Message from main
+2024-04-24 13:29:55,238 - INFO - BY RECEIVER Received message: b'Message from main'
+2024-04-24 13:29:55,238 - INFO - BY RECEIVER Received message: b'Message from main'
+2024-04-24 13:29:55,238 - INFO - BY RECEIVER Received message: b'Message from main'
+2024-04-24 13:32:34,691 - INFO - Project started
+2024-04-24 13:32:34,708 - INFO - Sent message: Hello from sender!
+2024-04-24 13:32:34,708 - INFO - Sent message: Hello from sender!
+2024-04-24 13:32:34,708 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 13:32:34,708 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 13:32:34,708 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 13:32:34,708 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 13:32:34,728 - INFO - Sent message: Message from main
+2024-04-24 13:32:34,728 - INFO - BY RECEIVER Received message: b'Message from main'
+2024-04-24 13:32:34,728 - INFO - Sent message: Message from main
+2024-04-24 13:32:34,728 - INFO - BY RECEIVER Received message: b'Message from main'
+2024-04-24 13:32:34,728 - INFO - BY RECEIVER Received message: b'Message from main'
+2024-04-24 13:32:34,728 - INFO - BY RECEIVER Received message: b'Message from main'
+2024-04-24 13:32:45,772 - INFO - Project started
+2024-04-24 13:32:45,802 - INFO - Sent message: Hello from sender!
+2024-04-24 13:32:45,802 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 13:32:45,802 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 13:32:45,802 - INFO - Sent message: Hello from sender!
+2024-04-24 13:32:45,802 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 13:32:45,802 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 13:32:45,802 - INFO - Main processed message: Hello from sender!
+2024-04-24 13:32:45,802 - INFO - Main processed message: Hello from sender!
+2024-04-24 13:32:45,802 - INFO - Main processed message: Hello from sender!
+2024-04-24 13:32:45,802 - INFO - Main processed message: Hello from sender!
+2024-04-24 13:32:45,802 - INFO - Sent message: hii test time 1713945765.8024411
+2024-04-24 13:32:45,802 - INFO - Sent message: hii test time 1713945765.8024411
+2024-04-24 13:32:45,802 - INFO - Sent message: hii test time 1713945765.8024411
+2024-04-24 13:32:45,802 - INFO - Sent message: hii test time 1713945765.8024411
+2024-04-24 13:32:45,832 - INFO - Sent message: Message from main
+essage from main'
+2024-04-24 13:32:45,832 - INFO - BY RECEIVER Received message: b'Message from main'
+2024-04-24 13:32:45,832 - INFO - BY RECEIVER Received message: b'Message from main'
+2024-04-24 13:32:45,832 - INFO - Sent message: Message from main
+essage from main'
+2024-04-24 13:32:45,832 - INFO - Sent message: Message from main
+2024-04-24 13:32:45,832 - INFO - Sent message: Message from main
+2024-04-24 13:35:04,980 - INFO - Project started
+2024-04-24 13:35:05,007 - INFO - Sent message: Hello from sender!
+2024-04-24 13:35:05,007 - INFO - Sent message: Hello from sender!
+2024-04-24 13:35:05,024 - INFO - Sent message: Message from main
+2024-04-24 13:35:05,024 - INFO - Sent message: Message from main
+2024-04-24 13:35:05,024 - INFO - Sent message: Message from main
+2024-04-24 13:35:05,024 - INFO - Sent message: Message from main
+2024-04-24 13:35:20,462 - INFO - Project started
+2024-04-24 13:35:20,491 - INFO - Sent message: Hello from sender!
+2024-04-24 13:35:20,491 - INFO - Sent message: Hello from sender!
+2024-04-24 13:35:20,491 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 13:35:20,491 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 13:35:20,491 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 13:35:20,491 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 13:35:20,491 - INFO - Main processed message: Hello from sender!
+2024-04-24 13:35:20,491 - INFO - Main processed message: Hello from sender!
+2024-04-24 13:35:20,491 - INFO - Main processed message: Hello from sender!
+2024-04-24 13:35:20,491 - INFO - Main processed message: Hello from sender!
+2024-04-24 13:35:20,495 - INFO - Sent message: hii test time 1713945920.49181
+2024-04-24 13:35:20,495 - INFO - Sent message: hii test time 1713945920.49181
+2024-04-24 13:35:20,495 - INFO - Sent message: hii test time 1713945920.49181
+2024-04-24 13:35:20,495 - INFO - Sent message: hii test time 1713945920.49181
+2024-04-24 13:35:20,513 - INFO - Sent message: Message from main
+2024-04-24 13:35:20,513 - INFO - Sent message: Message from main
+2024-04-24 13:35:20,513 - INFO - BY RECEIVER Received message: b'Message from main'
+2024-04-24 13:35:20,513 - INFO - Sent message: Message from main
+2024-04-24 13:35:20,513 - INFO - BY RECEIVER Received message: b'Message from main'
+2024-04-24 13:35:20,513 - INFO - BY RECEIVER Received message: b'Message from main'
+2024-04-24 13:35:20,513 - INFO - BY RECEIVER Received message: b'Message from main'
+2024-04-24 13:35:46,733 - INFO - Project started
+2024-04-24 13:35:46,750 - INFO - Sent message: Hello from sender!
+2024-04-24 13:35:46,750 - INFO - Sent message: Hello from sender!
+2024-04-24 13:35:46,750 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 13:35:46,750 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 13:35:46,750 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 13:35:46,750 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 13:35:46,770 - INFO - Sent message: Message from main
+2024-04-24 13:35:46,770 - INFO - BY RECEIVER Received message: b'Message from main'
+2024-04-24 13:35:46,770 - INFO - Sent message: Message from main
+2024-04-24 13:35:46,770 - INFO - Sent message: Message from main
+essage from main'
+2024-04-24 13:35:46,770 - INFO - BY RECEIVER Received message: b'Message from main'
+2024-04-24 13:35:46,770 - INFO - BY RECEIVER Received message: b'Message from main'
+2024-04-24 13:36:52,799 - INFO - Project started
+2024-04-24 13:36:52,826 - INFO - Sent message: Hello from sender!
+2024-04-24 13:36:52,826 - INFO - Sent message: Hello from sender!
+2024-04-24 13:36:52,851 - INFO - Sent message: Message from main
+2024-04-24 13:36:52,851 - INFO - Sent message: Message from main
+2024-04-24 13:36:52,851 - INFO - Sent message: Message from main
+2024-04-24 13:36:52,851 - INFO - Sent message: Message from main
+2024-04-24 13:37:13,847 - INFO - Project started
+2024-04-24 13:37:13,875 - INFO - Sent message: Hello from sender!
+llo from sender!'
+2024-04-24 13:37:13,875 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 13:37:13,875 - INFO - Sent message: Hello from sender!
+llo from sender!'
+2024-04-24 13:37:13,875 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 13:37:13,875 - INFO - Main processed message: Hello from sender!
+2024-04-24 13:37:13,875 - INFO - Main processed message: Hello from sender!
+2024-04-24 13:37:13,875 - INFO - Main processed message: Hello from sender!
+2024-04-24 13:37:13,875 - INFO - Main processed message: Hello from sender!
+2024-04-24 13:37:13,880 - INFO - Sent message: hii test time 1713946033.875403
+2024-04-24 13:37:13,880 - INFO - Sent message: hii test time 1713946033.875403
+2024-04-24 13:37:13,880 - INFO - Sent message: hii test time 1713946033.875403
+2024-04-24 13:37:13,880 - INFO - Sent message: hii test time 1713946033.875403
+2024-04-24 13:37:13,901 - INFO - Sent message: Message from main
+2024-04-24 13:37:13,901 - INFO - Sent message: Message from main
+2024-04-24 13:37:13,901 - INFO - Sent message: Message from main
+2024-04-24 13:37:13,901 - INFO - BY RECEIVER Received message: b'Message from main'
+2024-04-24 13:37:13,901 - INFO - Sent message: Message from main
+2024-04-24 13:37:13,901 - INFO - BY RECEIVER Received message: b'Message from main'
+2024-04-24 13:37:13,901 - INFO - BY RECEIVER Received message: b'Message from main'
+2024-04-24 13:37:13,901 - INFO - BY RECEIVER Received message: b'Message from main'
+2024-04-24 13:38:38,519 - INFO - Project started
+2024-04-24 13:38:38,548 - INFO - Sent message: Hello from sender!
+2024-04-24 13:38:38,548 - INFO - Sent message: Hello from sender!
+2024-04-24 13:38:38,577 - INFO - Sent message: Message from main
+2024-04-24 13:38:38,577 - INFO - Sent message: Message from main
+2024-04-24 13:38:38,577 - INFO - Sent message: Message from main
+2024-04-24 13:38:38,577 - INFO - Sent message: Message from main
+2024-04-24 13:38:46,618 - INFO - Project started
+2024-04-24 13:38:46,648 - INFO - Sent message: Hello from sender!
+llo from sender!'
+2024-04-24 13:38:46,648 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 13:38:46,648 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 13:38:46,648 - INFO - Sent message: Hello from sender!
+2024-04-24 13:38:46,648 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 13:38:46,648 - INFO - Main processed message: Hello from sender!
+2024-04-24 13:38:46,648 - INFO - Main processed message: Hello from sender!
+2024-04-24 13:38:46,648 - INFO - Main processed message: Hello from sender!
+2024-04-24 13:38:46,648 - INFO - Main processed message: Hello from sender!
+2024-04-24 13:38:46,648 - INFO - Sent message: hii test time 1713946126.648249
+2024-04-24 13:38:46,648 - INFO - Sent message: hii test time 1713946126.648249
+2024-04-24 13:38:46,648 - INFO - Sent message: hii test time 1713946126.648249
+2024-04-24 13:38:46,648 - INFO - Sent message: hii test time 1713946126.648249
+2024-04-24 13:38:46,667 - INFO - Sent message: Message from main
+2024-04-24 13:38:46,667 - INFO - Sent message: Message from main
+2024-04-24 13:38:46,667 - INFO - BY RECEIVER Received message: b'Message from main'
+2024-04-24 13:38:46,667 - INFO - Sent message: Message from main
+2024-04-24 13:38:46,667 - INFO - BY RECEIVER Received message: b'Message from main'
+2024-04-24 13:38:46,667 - INFO - BY RECEIVER Received message: b'Message from main'
+2024-04-24 13:38:46,667 - INFO - BY RECEIVER Received message: b'Message from main'
+2024-04-24 13:39:20,397 - INFO - Project started
+2024-04-24 13:39:20,419 - INFO - Sent message: Hello from sender!
+2024-04-24 13:39:20,419 - INFO - Sent message: Hello from sender!
+2024-04-24 13:41:23,182 - INFO - Project started
+2024-04-24 13:41:23,200 - INFO - Sent message: Hello from sender!
+2024-04-24 13:41:23,200 - INFO - Sent message: Hello from sender!
+2024-04-24 13:41:23,200 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 13:41:23,200 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 13:41:23,200 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 13:41:23,200 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 13:41:23,200 - INFO - Sent message: Message from main
+2024-04-24 13:41:23,200 - INFO - Sent message: Message from main
+2024-04-24 13:41:23,200 - INFO - Sent message: Message from main
+2024-04-24 13:41:23,200 - INFO - Sent message: Message from main
+2024-04-24 13:41:23,200 - INFO - Main processed message: Hello from sender!
+2024-04-24 13:41:23,200 - INFO - Main processed message: Hello from sender!
+2024-04-24 13:41:23,200 - INFO - Main processed message: Hello from sender!
+2024-04-24 13:41:23,200 - INFO - Main processed message: Hello from sender!
+2024-04-24 13:41:23,200 - INFO - Sent message: hii test time 1713946283.2003257
+2024-04-24 13:41:23,200 - INFO - Sent message: hii test time 1713946283.2003257
+2024-04-24 13:41:23,200 - INFO - Sent message: hii test time 1713946283.2003257
+2024-04-24 13:41:23,200 - INFO - Sent message: hii test time 1713946283.2003257
+2024-04-24 13:43:17,500 - INFO - Project started
+2024-04-24 13:43:17,537 - INFO - Sent message: Hello from sender!
+2024-04-24 13:43:17,537 - INFO - Sent message: Hello from sender!
+2024-04-24 13:43:24,599 - INFO - Project started
+2024-04-24 13:43:24,633 - INFO - Sent message: Hello from sender!
+2024-04-24 13:43:24,633 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 13:43:24,633 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 13:43:24,633 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 13:43:24,633 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 13:43:24,633 - INFO - Sent message: Message from main
+2024-04-24 13:43:24,633 - INFO - Sent message: Message from main
+2024-04-24 13:43:24,633 - INFO - Sent message: Message from main
+2024-04-24 13:43:24,633 - INFO - Sent message: Message from main
+2024-04-24 13:43:24,633 - INFO - Main processed message: Hello from sender!
+2024-04-24 13:43:24,633 - INFO - Main processed message: Hello from sender!
+2024-04-24 13:43:24,633 - INFO - Main processed message: Hello from sender!
+2024-04-24 13:43:24,633 - INFO - Main processed message: Hello from sender!
+2024-04-24 13:43:24,637 - INFO - Sent message: hii test time 1713946404.6335285
+2024-04-24 13:43:24,637 - INFO - Sent message: hii test time 1713946404.6335285
+2024-04-24 13:43:24,637 - INFO - Sent message: hii test time 1713946404.6335285
+2024-04-24 13:43:24,637 - INFO - Sent message: hii test time 1713946404.6335285
+2024-04-24 13:44:39,189 - INFO - Project started
+2024-04-24 13:44:39,213 - INFO - Sent message: Hello from sender!
+2024-04-24 13:44:39,213 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 13:44:39,213 - INFO - Sent message: Hello from sender!
+2024-04-24 13:44:39,213 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 13:44:39,213 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 13:44:39,213 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 13:44:39,213 - INFO - Sent message: Message from main
+2024-04-24 13:44:39,213 - INFO - Sent message: Message from main
+2024-04-24 13:44:39,213 - INFO - Sent message: Message from main
+2024-04-24 13:44:39,213 - INFO - Sent message: Message from main
+2024-04-24 13:44:39,213 - INFO - Main processed message: Hello from sender!
+2024-04-24 13:44:39,213 - INFO - Main processed message: Hello from sender!
+2024-04-24 13:44:39,213 - INFO - Main processed message: Hello from sender!
+2024-04-24 13:44:39,213 - INFO - Main processed message: Hello from sender!
+2024-04-24 13:44:39,220 - INFO - Sent message: hii test time 1713946479.2130828
+2024-04-24 13:44:39,220 - INFO - Sent message: hii test time 1713946479.2130828
+2024-04-24 13:44:39,220 - INFO - Sent message: hii test time 1713946479.2130828
+2024-04-24 13:44:39,220 - INFO - Sent message: hii test time 1713946479.2130828
+2024-04-24 13:44:56,462 - INFO - Project started
+2024-04-24 13:44:56,482 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 13:44:56,482 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 13:44:56,482 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 13:44:56,482 - INFO - BY RECEIVER Received message: b'Hello from sender!'
+2024-04-24 13:44:56,482 - INFO - Sent message: Message from main
+2024-04-24 13:44:56,482 - INFO - Sent message: Message from main
+2024-04-24 13:44:56,482 - INFO - Sent message: Message from main
+2024-04-24 13:44:56,482 - INFO - Sent message: Message from main
+2024-04-24 13:44:56,482 - INFO - Main processed message: Hello from sender!
+2024-04-24 13:44:56,482 - INFO - Main processed message: Hello from sender!
+2024-04-24 13:44:56,482 - INFO - Main processed message: Hello from sender!
+2024-04-24 13:44:56,482 - INFO - Main processed message: Hello from sender!
+2024-04-24 13:44:56,487 - INFO - Sent message: hii test time 1713946496.48293
+2024-04-24 13:44:56,487 - INFO - Sent message: hii test time 1713946496.48293
+2024-04-24 13:44:56,487 - INFO - Sent message: hii test time 1713946496.48293
+2024-04-24 13:44:56,487 - INFO - Sent message: hii test time 1713946496.48293
+2024-04-24 13:57:08,877 - INFO - Project started
+2024-04-24 13:57:08,912 - INFO - Sent message: Hello from sender!
+2024-04-24 13:57:08,912 - INFO - Sent message: Hello from sender!
+2024-04-24 14:00:24,801 - INFO - Project started
+2024-04-24 14:00:58,030 - INFO - Project started
+2024-04-24 14:01:14,819 - INFO - Project started
+2024-04-24 14:04:53,850 - INFO - Project started
+2024-04-24 14:05:50,211 - INFO - Project started
+2024-04-24 14:06:17,106 - INFO - Project started
+2024-04-24 14:06:17,129 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:06:17,129 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:06:17,129 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:06:20,131 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:06:20,131 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:06:20,131 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:06:23,133 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:06:23,133 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:06:23,133 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:06:26,136 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:06:26,136 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:06:26,136 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:06:29,139 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:06:29,139 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:06:29,139 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:06:32,140 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:06:32,140 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:06:32,140 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:06:35,144 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:06:35,144 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:06:35,144 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:06:38,146 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:06:38,146 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:06:38,146 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:06:41,148 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:06:41,148 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:06:41,148 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:06:44,149 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:06:44,149 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:06:44,149 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:06:47,154 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:06:47,154 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:06:47,154 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:06:50,157 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:06:50,157 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:06:50,157 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:06:53,159 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:06:53,159 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:06:53,159 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:06:54,136 - INFO - Project started
+2024-04-24 14:06:56,162 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:06:56,162 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:06:56,162 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:13:31,248 - INFO - Project started
+2024-04-24 14:13:31,269 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:13:31,269 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:13:31,269 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:13:34,270 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:13:34,270 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:13:34,270 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:13:37,273 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:13:37,273 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:13:37,273 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:13:40,275 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:13:40,275 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:13:40,275 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:13:43,278 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:13:43,278 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:13:43,278 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:13:46,283 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:13:46,283 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:13:46,283 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:13:49,286 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:13:49,286 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:13:49,286 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:13:52,287 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:13:52,287 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:13:52,287 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:13:55,290 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:13:55,290 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:13:55,290 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:13:58,293 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:13:58,293 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:13:58,293 - INFO - Sent message inside send message: Message from sender at main 1
+2024-04-24 14:14:04,699 - INFO - Project started
+2024-04-24 14:14:04,723 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:14:04,723 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:14:04,723 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:14:07,724 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:14:07,724 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:14:07,724 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:14:10,726 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:14:10,726 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:14:10,726 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:14:13,729 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:14:13,729 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:14:13,729 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:14:16,732 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:14:16,732 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:14:16,732 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:14:19,734 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:14:19,734 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:14:19,734 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:14:22,737 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:14:22,737 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:14:22,737 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:14:46,643 - INFO - Project started
+2024-04-24 14:14:46,674 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:14:46,674 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:14:46,674 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:14:49,675 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:14:49,675 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:14:49,675 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:15:31,274 - INFO - Project started
+2024-04-24 14:15:31,300 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:15:31,300 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:15:31,300 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:15:34,301 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:15:34,301 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:15:34,301 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:15:37,303 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:15:37,303 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:15:37,303 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:15:40,306 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:15:40,306 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:15:40,306 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:15:43,309 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:15:43,309 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:15:43,309 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:16:15,331 - INFO - Project started
+2024-04-24 14:16:15,364 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:16:15,364 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:16:15,364 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:16:18,365 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 14:16:18,365 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 14:16:18,365 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 14:16:21,368 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 14:16:21,368 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 14:16:21,368 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 14:21:19,223 - INFO - Project started
+2024-04-24 14:21:19,238 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:21:19,238 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:21:19,238 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:21:22,251 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 14:21:22,251 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 14:21:22,251 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 14:21:25,254 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 14:21:25,254 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 14:21:25,254 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 14:21:28,256 - INFO - Sent message inside send for logg message: Message from sender at main 4
+2024-04-24 14:21:28,256 - INFO - Sent message inside send for logg message: Message from sender at main 4
+2024-04-24 14:21:28,256 - INFO - Sent message inside send for logg message: Message from sender at main 4
+2024-04-24 14:21:31,257 - INFO - Sent message inside send for logg message: Message from sender at main 5
+2024-04-24 14:21:31,257 - INFO - Sent message inside send for logg message: Message from sender at main 5
+2024-04-24 14:21:31,257 - INFO - Sent message inside send for logg message: Message from sender at main 5
+2024-04-24 14:21:47,244 - INFO - Project started
+2024-04-24 14:29:30,425 - INFO - Project started
+2024-04-24 14:31:09,580 - INFO - Project started
+2024-04-24 14:31:25,894 - INFO - Project started
+2024-04-24 14:32:57,699 - INFO - Project started
+2024-04-24 14:33:14,328 - INFO - Project started
+2024-04-24 14:33:14,361 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:33:14,361 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:33:14,361 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:33:14,361 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:33:17,363 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 14:33:17,363 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 14:33:17,363 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 14:33:17,363 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 14:33:20,365 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 14:33:20,365 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 14:33:20,365 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 14:33:20,365 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 14:33:23,368 - INFO - Sent message inside send for logg message: Message from sender at main 4
+2024-04-24 14:33:23,368 - INFO - Sent message inside send for logg message: Message from sender at main 4
+2024-04-24 14:33:23,368 - INFO - Sent message inside send for logg message: Message from sender at main 4
+2024-04-24 14:33:23,368 - INFO - Sent message inside send for logg message: Message from sender at main 4
+2024-04-24 14:33:26,369 - INFO - Sent message inside send for logg message: Message from sender at main 5
+2024-04-24 14:33:26,369 - INFO - Sent message inside send for logg message: Message from sender at main 5
+2024-04-24 14:33:26,369 - INFO - Sent message inside send for logg message: Message from sender at main 5
+2024-04-24 14:33:26,369 - INFO - Sent message inside send for logg message: Message from sender at main 5
+2024-04-24 14:33:29,373 - INFO - Sent message inside send for logg message: Message from sender at main 6
+2024-04-24 14:33:29,373 - INFO - Sent message inside send for logg message: Message from sender at main 6
+2024-04-24 14:33:29,373 - INFO - Sent message inside send for logg message: Message from sender at main 6
+2024-04-24 14:33:29,373 - INFO - Sent message inside send for logg message: Message from sender at main 6
+2024-04-24 14:33:32,375 - INFO - Sent message inside send for logg message: Message from sender at main 7
+2024-04-24 14:33:32,375 - INFO - Sent message inside send for logg message: Message from sender at main 7
+2024-04-24 14:33:32,375 - INFO - Sent message inside send for logg message: Message from sender at main 7
+2024-04-24 14:33:32,375 - INFO - Sent message inside send for logg message: Message from sender at main 7
+2024-04-24 14:33:35,378 - INFO - Sent message inside send for logg message: Message from sender at main 8
+2024-04-24 14:33:35,378 - INFO - Sent message inside send for logg message: Message from sender at main 8
+2024-04-24 14:33:35,378 - INFO - Sent message inside send for logg message: Message from sender at main 8
+2024-04-24 14:33:35,378 - INFO - Sent message inside send for logg message: Message from sender at main 8
+2024-04-24 14:33:38,380 - INFO - Sent message inside send for logg message: Message from sender at main 9
+2024-04-24 14:33:38,380 - INFO - Sent message inside send for logg message: Message from sender at main 9
+2024-04-24 14:33:38,380 - INFO - Sent message inside send for logg message: Message from sender at main 9
+2024-04-24 14:33:38,380 - INFO - Sent message inside send for logg message: Message from sender at main 9
+2024-04-24 14:33:41,382 - INFO - Sent message inside send for logg message: Message from sender at main 10
+2024-04-24 14:33:41,382 - INFO - Sent message inside send for logg message: Message from sender at main 10
+2024-04-24 14:33:41,382 - INFO - Sent message inside send for logg message: Message from sender at main 10
+2024-04-24 14:33:41,382 - INFO - Sent message inside send for logg message: Message from sender at main 10
+2024-04-24 14:33:44,385 - INFO - Sent message inside send for logg message: Message from sender at main 11
+2024-04-24 14:33:44,385 - INFO - Sent message inside send for logg message: Message from sender at main 11
+2024-04-24 14:33:44,385 - INFO - Sent message inside send for logg message: Message from sender at main 11
+2024-04-24 14:33:44,385 - INFO - Sent message inside send for logg message: Message from sender at main 11
+2024-04-24 14:34:09,687 - INFO - Project started
+2024-04-24 14:34:09,709 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:34:09,709 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:34:09,709 - INFO - BY RECEIVER Received message: b'Message from sender at main 1'
+2024-04-24 14:34:09,709 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:34:09,709 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:34:09,709 - INFO - BY RECEIVER Received message: b'Message from sender at main 1'
+2024-04-24 14:34:09,709 - INFO - BY RECEIVER Received message: b'Message from sender at main 1'
+2024-04-24 14:34:09,709 - INFO - BY RECEIVER Received message: b'Message from sender at main 1'
+2024-04-24 14:34:12,722 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 14:34:12,722 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 14:34:12,722 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 14:34:12,722 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 14:34:15,723 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 14:34:15,723 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 14:34:15,723 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 14:34:15,723 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 14:34:18,726 - INFO - Sent message inside send for logg message: Message from sender at main 4
+2024-04-24 14:34:18,726 - INFO - Sent message inside send for logg message: Message from sender at main 4
+2024-04-24 14:34:18,726 - INFO - Sent message inside send for logg message: Message from sender at main 4
+2024-04-24 14:34:18,726 - INFO - Sent message inside send for logg message: Message from sender at main 4
+2024-04-24 14:34:21,729 - INFO - Sent message inside send for logg message: Message from sender at main 5
+2024-04-24 14:34:21,729 - INFO - Sent message inside send for logg message: Message from sender at main 5
+2024-04-24 14:34:21,729 - INFO - Sent message inside send for logg message: Message from sender at main 5
+2024-04-24 14:34:21,729 - INFO - Sent message inside send for logg message: Message from sender at main 5
+2024-04-24 14:34:24,732 - INFO - Sent message inside send for logg message: Message from sender at main 6
+2024-04-24 14:34:24,732 - INFO - Sent message inside send for logg message: Message from sender at main 6
+2024-04-24 14:34:24,732 - INFO - Sent message inside send for logg message: Message from sender at main 6
+2024-04-24 14:34:24,732 - INFO - Sent message inside send for logg message: Message from sender at main 6
+2024-04-24 14:34:27,737 - INFO - Sent message inside send for logg message: Message from sender at main 7
+2024-04-24 14:34:27,737 - INFO - Sent message inside send for logg message: Message from sender at main 7
+2024-04-24 14:34:27,737 - INFO - Sent message inside send for logg message: Message from sender at main 7
+2024-04-24 14:34:27,737 - INFO - Sent message inside send for logg message: Message from sender at main 7
+2024-04-24 14:34:30,740 - INFO - Sent message inside send for logg message: Message from sender at main 8
+2024-04-24 14:34:30,740 - INFO - Sent message inside send for logg message: Message from sender at main 8
+2024-04-24 14:34:30,740 - INFO - Sent message inside send for logg message: Message from sender at main 8
+2024-04-24 14:34:30,740 - INFO - Sent message inside send for logg message: Message from sender at main 8
+2024-04-24 14:34:33,741 - INFO - Sent message inside send for logg message: Message from sender at main 9
+2024-04-24 14:34:33,741 - INFO - Sent message inside send for logg message: Message from sender at main 9
+2024-04-24 14:34:33,741 - INFO - Sent message inside send for logg message: Message from sender at main 9
+2024-04-24 14:34:33,741 - INFO - Sent message inside send for logg message: Message from sender at main 9
+2024-04-24 14:34:36,744 - INFO - Sent message inside send for logg message: Message from sender at main 10
+2024-04-24 14:34:36,744 - INFO - Sent message inside send for logg message: Message from sender at main 10
+2024-04-24 14:34:36,744 - INFO - Sent message inside send for logg message: Message from sender at main 10
+2024-04-24 14:34:36,744 - INFO - Sent message inside send for logg message: Message from sender at main 10
+2024-04-24 14:34:39,747 - INFO - Sent message inside send for logg message: Message from sender at main 11
+2024-04-24 14:34:39,747 - INFO - Sent message inside send for logg message: Message from sender at main 11
+2024-04-24 14:34:39,747 - INFO - Sent message inside send for logg message: Message from sender at main 11
+2024-04-24 14:34:39,747 - INFO - Sent message inside send for logg message: Message from sender at main 11
+2024-04-24 14:34:42,751 - INFO - Sent message inside send for logg message: Message from sender at main 12
+2024-04-24 14:34:42,751 - INFO - Sent message inside send for logg message: Message from sender at main 12
+2024-04-24 14:34:42,751 - INFO - Sent message inside send for logg message: Message from sender at main 12
+2024-04-24 14:34:42,751 - INFO - Sent message inside send for logg message: Message from sender at main 12
+2024-04-24 14:34:45,752 - INFO - Sent message inside send for logg message: Message from sender at main 13
+2024-04-24 14:34:45,752 - INFO - Sent message inside send for logg message: Message from sender at main 13
+2024-04-24 14:34:45,752 - INFO - Sent message inside send for logg message: Message from sender at main 13
+2024-04-24 14:34:45,752 - INFO - Sent message inside send for logg message: Message from sender at main 13
+2024-04-24 14:34:48,756 - INFO - Sent message inside send for logg message: Message from sender at main 14
+2024-04-24 14:34:48,756 - INFO - Sent message inside send for logg message: Message from sender at main 14
+2024-04-24 14:34:48,756 - INFO - Sent message inside send for logg message: Message from sender at main 14
+2024-04-24 14:34:48,756 - INFO - Sent message inside send for logg message: Message from sender at main 14
+2024-04-24 14:34:51,758 - INFO - Sent message inside send for logg message: Message from sender at main 15
+2024-04-24 14:34:51,758 - INFO - Sent message inside send for logg message: Message from sender at main 15
+2024-04-24 14:34:51,758 - INFO - Sent message inside send for logg message: Message from sender at main 15
+2024-04-24 14:34:51,758 - INFO - Sent message inside send for logg message: Message from sender at main 15
+2024-04-24 14:34:56,368 - INFO - Project started
+2024-04-24 14:34:56,412 - INFO - BY RECEIVER Received message: b'Message from sender at main 1'
+2024-04-24 14:34:56,412 - INFO - BY RECEIVER Received message: b'Message from sender at main 1'
+2024-04-24 14:34:56,412 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:34:56,412 - INFO - BY RECEIVER Received message: b'Message from sender at main 1'
+2024-04-24 14:34:56,412 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:34:56,412 - INFO - BY RECEIVER Received message: b'Message from sender at main 1'
+2024-04-24 14:34:56,412 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:34:56,412 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:34:59,416 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 14:34:59,416 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 14:34:59,416 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 14:34:59,416 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 14:35:02,417 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 14:35:02,417 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 14:35:02,417 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 14:35:02,417 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 14:35:05,420 - INFO - Sent message inside send for logg message: Message from sender at main 4
+2024-04-24 14:35:05,420 - INFO - Sent message inside send for logg message: Message from sender at main 4
+2024-04-24 14:35:05,420 - INFO - Sent message inside send for logg message: Message from sender at main 4
+2024-04-24 14:35:05,420 - INFO - Sent message inside send for logg message: Message from sender at main 4
+2024-04-24 14:35:08,425 - INFO - Sent message inside send for logg message: Message from sender at main 5
+2024-04-24 14:35:08,425 - INFO - Sent message inside send for logg message: Message from sender at main 5
+2024-04-24 14:35:08,425 - INFO - Sent message inside send for logg message: Message from sender at main 5
+2024-04-24 14:35:08,425 - INFO - Sent message inside send for logg message: Message from sender at main 5
+2024-04-24 14:35:11,426 - INFO - Sent message inside send for logg message: Message from sender at main 6
+2024-04-24 14:35:11,426 - INFO - Sent message inside send for logg message: Message from sender at main 6
+2024-04-24 14:35:11,426 - INFO - Sent message inside send for logg message: Message from sender at main 6
+2024-04-24 14:35:11,426 - INFO - Sent message inside send for logg message: Message from sender at main 6
+2024-04-24 14:35:14,431 - INFO - Sent message inside send for logg message: Message from sender at main 7
+2024-04-24 14:35:14,431 - INFO - Sent message inside send for logg message: Message from sender at main 7
+2024-04-24 14:35:14,431 - INFO - Sent message inside send for logg message: Message from sender at main 7
+2024-04-24 14:35:14,431 - INFO - Sent message inside send for logg message: Message from sender at main 7
+2024-04-24 14:35:17,432 - INFO - Sent message inside send for logg message: Message from sender at main 8
+2024-04-24 14:35:17,432 - INFO - Sent message inside send for logg message: Message from sender at main 8
+2024-04-24 14:35:17,432 - INFO - Sent message inside send for logg message: Message from sender at main 8
+2024-04-24 14:35:17,432 - INFO - Sent message inside send for logg message: Message from sender at main 8
+2024-04-24 14:35:20,435 - INFO - Sent message inside send for logg message: Message from sender at main 9
+2024-04-24 14:35:20,435 - INFO - Sent message inside send for logg message: Message from sender at main 9
+2024-04-24 14:35:20,435 - INFO - Sent message inside send for logg message: Message from sender at main 9
+2024-04-24 14:35:20,435 - INFO - Sent message inside send for logg message: Message from sender at main 9
+2024-04-24 14:35:23,438 - INFO - Sent message inside send for logg message: Message from sender at main 10
+2024-04-24 14:35:23,438 - INFO - Sent message inside send for logg message: Message from sender at main 10
+2024-04-24 14:35:23,438 - INFO - Sent message inside send for logg message: Message from sender at main 10
+2024-04-24 14:35:23,438 - INFO - Sent message inside send for logg message: Message from sender at main 10
+2024-04-24 14:35:46,512 - INFO - Project started
+2024-04-24 14:35:46,560 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:35:46,560 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:35:46,561 - INFO - BY RECEIVER Received message: b'Message from sender at main 1'
+2024-04-24 14:35:46,560 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:35:46,560 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:35:46,561 - INFO - BY RECEIVER Received message: b'Message from sender at main 1'
+2024-04-24 14:35:46,561 - INFO - BY RECEIVER Received message: b'Message from sender at main 1'
+2024-04-24 14:35:46,561 - INFO - BY RECEIVER Received message: b'Message from sender at main 1'
+2024-04-24 14:35:49,563 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 14:35:49,563 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 14:35:49,563 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 14:35:49,563 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 14:35:52,564 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 14:35:52,564 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 14:35:52,564 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 14:35:52,564 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 14:35:55,567 - INFO - Sent message inside send for logg message: Message from sender at main 4
+2024-04-24 14:35:55,567 - INFO - Sent message inside send for logg message: Message from sender at main 4
+2024-04-24 14:35:55,567 - INFO - Sent message inside send for logg message: Message from sender at main 4
+2024-04-24 14:35:55,567 - INFO - Sent message inside send for logg message: Message from sender at main 4
+2024-04-24 14:37:36,679 - INFO - Project started
+2024-04-24 14:37:36,715 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:37:36,715 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:37:36,715 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:37:36,715 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:37:36,715 - INFO - BY RECEIVER Received message: b'Message from sender at main 1'
+2024-04-24 14:37:36,715 - INFO - BY RECEIVER Received message: b'Message from sender at main 1'
+2024-04-24 14:37:36,715 - INFO - BY RECEIVER Received message: b'Message from sender at main 1'
+2024-04-24 14:37:36,715 - INFO - BY RECEIVER Received message: b'Message from sender at main 1'
+2024-04-24 14:37:39,716 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 14:37:39,716 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 14:37:39,716 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 14:37:39,716 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 14:37:39,716 - INFO - BY RECEIVER Received message: b'Message from sender at main 2'
+2024-04-24 14:37:39,716 - INFO - BY RECEIVER Received message: b'Message from sender at main 2'
+2024-04-24 14:37:39,716 - INFO - BY RECEIVER Received message: b'Message from sender at main 2'
+2024-04-24 14:37:39,716 - INFO - BY RECEIVER Received message: b'Message from sender at main 2'
+2024-04-24 14:37:42,719 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 14:37:42,719 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 14:37:42,719 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 14:37:42,719 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 14:37:42,719 - INFO - BY RECEIVER Received message: b'Message from sender at main 3'
+2024-04-24 14:37:42,719 - INFO - BY RECEIVER Received message: b'Message from sender at main 3'
+2024-04-24 14:37:42,719 - INFO - BY RECEIVER Received message: b'Message from sender at main 3'
+2024-04-24 14:37:42,719 - INFO - BY RECEIVER Received message: b'Message from sender at main 3'
+2024-04-24 14:37:45,722 - INFO - Sent message inside send for logg message: Message from sender at main 4
+2024-04-24 14:37:45,722 - INFO - Sent message inside send for logg message: Message from sender at main 4
+2024-04-24 14:37:45,722 - INFO - Sent message inside send for logg message: Message from sender at main 4
+2024-04-24 14:37:45,722 - INFO - Sent message inside send for logg message: Message from sender at main 4
+2024-04-24 14:37:45,722 - INFO - BY RECEIVER Received message: b'Message from sender at main 4'
+2024-04-24 14:37:45,722 - INFO - BY RECEIVER Received message: b'Message from sender at main 4'
+2024-04-24 14:37:45,722 - INFO - BY RECEIVER Received message: b'Message from sender at main 4'
+2024-04-24 14:37:45,722 - INFO - BY RECEIVER Received message: b'Message from sender at main 4'
+2024-04-24 14:37:48,728 - INFO - Sent message inside send for logg message: Message from sender at main 5
+2024-04-24 14:37:48,728 - INFO - Sent message inside send for logg message: Message from sender at main 5
+2024-04-24 14:37:48,728 - INFO - Sent message inside send for logg message: Message from sender at main 5
+2024-04-24 14:37:48,728 - INFO - BY RECEIVER Received message: b'Message from sender at main 5'
+2024-04-24 14:37:48,728 - INFO - BY RECEIVER Received message: b'Message from sender at main 5'
+2024-04-24 14:37:48,728 - INFO - Sent message inside send for logg message: Message from sender at main 5
+2024-04-24 14:37:48,728 - INFO - BY RECEIVER Received message: b'Message from sender at main 5'
+2024-04-24 14:37:48,728 - INFO - BY RECEIVER Received message: b'Message from sender at main 5'
+2024-04-24 14:37:51,730 - INFO - Sent message inside send for logg message: Message from sender at main 6
+2024-04-24 14:37:51,730 - INFO - Sent message inside send for logg message: Message from sender at main 6
+2024-04-24 14:37:51,730 - INFO - Sent message inside send for logg message: Message from sender at main 6
+2024-04-24 14:37:51,730 - INFO - BY RECEIVER Received message: b'Message from sender at main 6'
+2024-04-24 14:37:51,730 - INFO - BY RECEIVER Received message: b'Message from sender at main 6'
+2024-04-24 14:37:51,730 - INFO - Sent message inside send for logg message: Message from sender at main 6
+2024-04-24 14:37:51,730 - INFO - BY RECEIVER Received message: b'Message from sender at main 6'
+2024-04-24 14:37:51,730 - INFO - BY RECEIVER Received message: b'Message from sender at main 6'
+2024-04-24 14:37:54,734 - INFO - Sent message inside send for logg message: Message from sender at main 7
+2024-04-24 14:37:54,734 - INFO - Sent message inside send for logg message: Message from sender at main 7
+2024-04-24 14:37:54,734 - INFO - Sent message inside send for logg message: Message from sender at main 7
+2024-04-24 14:37:54,734 - INFO - Sent message inside send for logg message: Message from sender at main 7
+2024-04-24 14:37:54,734 - INFO - BY RECEIVER Received message: b'Message from sender at main 7'
+2024-04-24 14:37:54,734 - INFO - BY RECEIVER Received message: b'Message from sender at main 7'
+2024-04-24 14:37:54,734 - INFO - BY RECEIVER Received message: b'Message from sender at main 7'
+2024-04-24 14:37:54,734 - INFO - BY RECEIVER Received message: b'Message from sender at main 7'
+2024-04-24 14:37:57,739 - INFO - Sent message inside send for logg message: Message from sender at main 8
+2024-04-24 14:37:57,739 - INFO - Sent message inside send for logg message: Message from sender at main 8
+2024-04-24 14:37:57,739 - INFO - Sent message inside send for logg message: Message from sender at main 8
+2024-04-24 14:37:57,739 - INFO - BY RECEIVER Received message: b'Message from sender at main 8'
+2024-04-24 14:37:57,739 - INFO - BY RECEIVER Received message: b'Message from sender at main 8'
+2024-04-24 14:37:57,739 - INFO - Sent message inside send for logg message: Message from sender at main 8
+2024-04-24 14:37:57,739 - INFO - BY RECEIVER Received message: b'Message from sender at main 8'
+2024-04-24 14:37:57,739 - INFO - BY RECEIVER Received message: b'Message from sender at main 8'
+2024-04-24 14:38:00,743 - INFO - Sent message inside send for logg message: Message from sender at main 9
+2024-04-24 14:38:00,743 - INFO - Sent message inside send for logg message: Message from sender at main 9
+2024-04-24 14:38:00,743 - INFO - Sent message inside send for logg message: Message from sender at main 9
+2024-04-24 14:38:00,743 - INFO - Sent message inside send for logg message: Message from sender at main 9
+2024-04-24 14:38:00,743 - INFO - BY RECEIVER Received message: b'Message from sender at main 9'
+2024-04-24 14:38:00,743 - INFO - BY RECEIVER Received message: b'Message from sender at main 9'
+2024-04-24 14:38:00,743 - INFO - BY RECEIVER Received message: b'Message from sender at main 9'
+2024-04-24 14:38:00,743 - INFO - BY RECEIVER Received message: b'Message from sender at main 9'
+2024-04-24 14:38:53,870 - INFO - Project started
+2024-04-24 14:38:53,921 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:38:53,921 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:38:53,921 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:38:53,921 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:38:53,921 - INFO - BY RECEIVER Received message: b'Message from sender at main 1'
+2024-04-24 14:38:53,921 - INFO - BY RECEIVER Received message: b'Message from sender at main 1'
+2024-04-24 14:38:53,921 - INFO - BY RECEIVER Received message: b'Message from sender at main 1'
+2024-04-24 14:38:53,921 - INFO - BY RECEIVER Received message: b'Message from sender at main 1'
+2024-04-24 14:38:56,923 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 14:38:56,923 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 14:38:56,923 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 14:38:56,923 - INFO - BY RECEIVER Received message: b'Message from sender at main 2'
+2024-04-24 14:38:56,923 - INFO - BY RECEIVER Received message: b'Message from sender at main 2'
+2024-04-24 14:38:56,923 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 14:38:56,923 - INFO - BY RECEIVER Received message: b'Message from sender at main 2'
+2024-04-24 14:38:56,923 - INFO - BY RECEIVER Received message: b'Message from sender at main 2'
+2024-04-24 14:38:59,927 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 14:38:59,927 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 14:38:59,927 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 14:38:59,927 - INFO - BY RECEIVER Received message: b'Message from sender at main 3'
+2024-04-24 14:38:59,927 - INFO - BY RECEIVER Received message: b'Message from sender at main 3'
+2024-04-24 14:38:59,927 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 14:38:59,927 - INFO - BY RECEIVER Received message: b'Message from sender at main 3'
+2024-04-24 14:38:59,927 - INFO - BY RECEIVER Received message: b'Message from sender at main 3'
+2024-04-24 14:39:02,930 - INFO - Sent message inside send for logg message: Message from sender at main 4
+2024-04-24 14:39:02,930 - INFO - Sent message inside send for logg message: Message from sender at main 4
+2024-04-24 14:39:02,930 - INFO - Sent message inside send for logg message: Message from sender at main 4
+2024-04-24 14:39:02,930 - INFO - BY RECEIVER Received message: b'Message from sender at main 4'
+2024-04-24 14:39:02,930 - INFO - BY RECEIVER Received message: b'Message from sender at main 4'
+2024-04-24 14:39:02,930 - INFO - Sent message inside send for logg message: Message from sender at main 4
+2024-04-24 14:39:02,930 - INFO - BY RECEIVER Received message: b'Message from sender at main 4'
+2024-04-24 14:39:02,930 - INFO - BY RECEIVER Received message: b'Message from sender at main 4'
+2024-04-24 14:39:05,935 - INFO - Sent message inside send for logg message: Message from sender at main 5
+2024-04-24 14:39:05,935 - INFO - Sent message inside send for logg message: Message from sender at main 5
+2024-04-24 14:39:05,935 - INFO - Sent message inside send for logg message: Message from sender at main 5
+2024-04-24 14:39:05,935 - INFO - Sent message inside send for logg message: Message from sender at main 5
+2024-04-24 14:39:05,935 - INFO - BY RECEIVER Received message: b'Message from sender at main 5'
+2024-04-24 14:39:05,935 - INFO - BY RECEIVER Received message: b'Message from sender at main 5'
+2024-04-24 14:39:05,935 - INFO - BY RECEIVER Received message: b'Message from sender at main 5'
+2024-04-24 14:39:05,935 - INFO - BY RECEIVER Received message: b'Message from sender at main 5'
+2024-04-24 14:39:08,936 - INFO - Sent message inside send for logg message: Message from sender at main 6
+2024-04-24 14:39:08,936 - INFO - Sent message inside send for logg message: Message from sender at main 6
+2024-04-24 14:39:08,936 - INFO - Sent message inside send for logg message: Message from sender at main 6
+2024-04-24 14:39:08,936 - INFO - BY RECEIVER Received message: b'Message from sender at main 6'
+2024-04-24 14:39:08,936 - INFO - BY RECEIVER Received message: b'Message from sender at main 6'
+2024-04-24 14:39:08,936 - INFO - Sent message inside send for logg message: Message from sender at main 6
+2024-04-24 14:39:08,936 - INFO - BY RECEIVER Received message: b'Message from sender at main 6'
+2024-04-24 14:39:08,936 - INFO - BY RECEIVER Received message: b'Message from sender at main 6'
+2024-04-24 14:39:11,940 - INFO - Sent message inside send for logg message: Message from sender at main 7
+2024-04-24 14:39:11,940 - INFO - Sent message inside send for logg message: Message from sender at main 7
+2024-04-24 14:39:11,940 - INFO - Sent message inside send for logg message: Message from sender at main 7
+2024-04-24 14:39:11,940 - INFO - BY RECEIVER Received message: b'Message from sender at main 7'
+2024-04-24 14:39:11,940 - INFO - BY RECEIVER Received message: b'Message from sender at main 7'
+2024-04-24 14:39:11,940 - INFO - Sent message inside send for logg message: Message from sender at main 7
+2024-04-24 14:39:11,940 - INFO - BY RECEIVER Received message: b'Message from sender at main 7'
+2024-04-24 14:39:11,940 - INFO - BY RECEIVER Received message: b'Message from sender at main 7'
+2024-04-24 14:39:14,943 - INFO - Sent message inside send for logg message: Message from sender at main 8
+2024-04-24 14:39:14,943 - INFO - Sent message inside send for logg message: Message from sender at main 8
+2024-04-24 14:39:14,943 - INFO - Sent message inside send for logg message: Message from sender at main 8
+2024-04-24 14:39:14,943 - INFO - Sent message inside send for logg message: Message from sender at main 8
+2024-04-24 14:39:14,943 - INFO - BY RECEIVER Received message: b'Message from sender at main 8'
+2024-04-24 14:39:14,943 - INFO - BY RECEIVER Received message: b'Message from sender at main 8'
+2024-04-24 14:39:14,943 - INFO - BY RECEIVER Received message: b'Message from sender at main 8'
+2024-04-24 14:39:14,943 - INFO - BY RECEIVER Received message: b'Message from sender at main 8'
+2024-04-24 14:39:17,946 - INFO - Sent message inside send for logg message: Message from sender at main 9
+2024-04-24 14:39:17,946 - INFO - Sent message inside send for logg message: Message from sender at main 9
+2024-04-24 14:39:17,946 - INFO - Sent message inside send for logg message: Message from sender at main 9
+2024-04-24 14:39:17,946 - INFO - Sent message inside send for logg message: Message from sender at main 9
+2024-04-24 14:39:17,946 - INFO - BY RECEIVER Received message: b'Message from sender at main 9'
+2024-04-24 14:39:17,946 - INFO - BY RECEIVER Received message: b'Message from sender at main 9'
+2024-04-24 14:39:17,946 - INFO - BY RECEIVER Received message: b'Message from sender at main 9'
+2024-04-24 14:39:17,946 - INFO - BY RECEIVER Received message: b'Message from sender at main 9'
+2024-04-24 14:39:20,950 - INFO - Sent message inside send for logg message: Message from sender at main 10
+2024-04-24 14:39:20,950 - INFO - Sent message inside send for logg message: Message from sender at main 10
+2024-04-24 14:39:20,950 - INFO - Sent message inside send for logg message: Message from sender at main 10
+2024-04-24 14:39:20,950 - INFO - Sent message inside send for logg message: Message from sender at main 10
+2024-04-24 14:39:20,951 - INFO - BY RECEIVER Received message: b'Message from sender at main 10'
+2024-04-24 14:39:20,951 - INFO - BY RECEIVER Received message: b'Message from sender at main 10'
+2024-04-24 14:39:20,951 - INFO - BY RECEIVER Received message: b'Message from sender at main 10'
+2024-04-24 14:39:20,951 - INFO - BY RECEIVER Received message: b'Message from sender at main 10'
+2024-04-24 14:39:23,953 - INFO - Sent message inside send for logg message: Message from sender at main 11
+2024-04-24 14:39:23,953 - INFO - Sent message inside send for logg message: Message from sender at main 11
+2024-04-24 14:39:23,953 - INFO - Sent message inside send for logg message: Message from sender at main 11
+2024-04-24 14:39:23,953 - INFO - Sent message inside send for logg message: Message from sender at main 11
+2024-04-24 14:39:23,953 - INFO - BY RECEIVER Received message: b'Message from sender at main 11'
+2024-04-24 14:39:23,953 - INFO - BY RECEIVER Received message: b'Message from sender at main 11'
+2024-04-24 14:39:23,953 - INFO - BY RECEIVER Received message: b'Message from sender at main 11'
+2024-04-24 14:39:23,953 - INFO - BY RECEIVER Received message: b'Message from sender at main 11'
+2024-04-24 14:40:55,855 - INFO - Project started
+2024-04-24 14:40:55,888 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:40:55,888 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:40:55,888 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:40:55,888 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:40:55,888 - INFO - BY RECEIVER Received message: b'Message from sender at main 1'
+2024-04-24 14:40:55,888 - INFO - BY RECEIVER Received message: b'Message from sender at main 1'
+2024-04-24 14:40:55,888 - INFO - BY RECEIVER Received message: b'Message from sender at main 1'
+2024-04-24 14:40:55,888 - INFO - BY RECEIVER Received message: b'Message from sender at main 1'
+2024-04-24 14:40:58,890 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 14:40:58,890 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 14:40:58,890 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 14:40:58,890 - INFO - BY RECEIVER Received message: b'Message from sender at main 2'
+2024-04-24 14:40:58,890 - INFO - BY RECEIVER Received message: b'Message from sender at main 2'
+2024-04-24 14:40:58,890 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 14:40:58,890 - INFO - BY RECEIVER Received message: b'Message from sender at main 2'
+2024-04-24 14:40:58,890 - INFO - BY RECEIVER Received message: b'Message from sender at main 2'
+2024-04-24 14:41:01,893 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 14:41:01,893 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 14:41:01,893 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 14:41:01,893 - INFO - BY RECEIVER Received message: b'Message from sender at main 3'
+2024-04-24 14:41:01,893 - INFO - BY RECEIVER Received message: b'Message from sender at main 3'
+2024-04-24 14:41:01,893 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 14:41:01,893 - INFO - BY RECEIVER Received message: b'Message from sender at main 3'
+2024-04-24 14:41:01,893 - INFO - BY RECEIVER Received message: b'Message from sender at main 3'
+2024-04-24 14:41:04,897 - INFO - Sent message inside send for logg message: Message from sender at main 4
+2024-04-24 14:41:04,897 - INFO - Sent message inside send for logg message: Message from sender at main 4
+2024-04-24 14:41:04,897 - INFO - Sent message inside send for logg message: Message from sender at main 4
+2024-04-24 14:41:04,897 - INFO - Sent message inside send for logg message: Message from sender at main 4
+2024-04-24 14:41:04,897 - INFO - BY RECEIVER Received message: b'Message from sender at main 4'
+2024-04-24 14:41:04,897 - INFO - BY RECEIVER Received message: b'Message from sender at main 4'
+2024-04-24 14:41:04,897 - INFO - BY RECEIVER Received message: b'Message from sender at main 4'
+2024-04-24 14:41:04,897 - INFO - BY RECEIVER Received message: b'Message from sender at main 4'
+2024-04-24 14:41:07,902 - INFO - Sent message inside send for logg message: Message from sender at main 5
+2024-04-24 14:41:07,902 - INFO - Sent message inside send for logg message: Message from sender at main 5
+2024-04-24 14:41:07,902 - INFO - Sent message inside send for logg message: Message from sender at main 5
+2024-04-24 14:41:07,902 - INFO - BY RECEIVER Received message: b'Message from sender at main 5'
+2024-04-24 14:41:07,902 - INFO - BY RECEIVER Received message: b'Message from sender at main 5'
+2024-04-24 14:41:07,902 - INFO - Sent message inside send for logg message: Message from sender at main 5
+2024-04-24 14:41:07,902 - INFO - BY RECEIVER Received message: b'Message from sender at main 5'
+2024-04-24 14:41:07,902 - INFO - BY RECEIVER Received message: b'Message from sender at main 5'
+2024-04-24 14:41:10,905 - INFO - Sent message inside send for logg message: Message from sender at main 6
+2024-04-24 14:41:10,905 - INFO - Sent message inside send for logg message: Message from sender at main 6
+2024-04-24 14:41:10,905 - INFO - Sent message inside send for logg message: Message from sender at main 6
+2024-04-24 14:41:10,905 - INFO - BY RECEIVER Received message: b'Message from sender at main 6'
+2024-04-24 14:41:10,905 - INFO - BY RECEIVER Received message: b'Message from sender at main 6'
+2024-04-24 14:41:10,905 - INFO - Sent message inside send for logg message: Message from sender at main 6
+2024-04-24 14:41:10,905 - INFO - BY RECEIVER Received message: b'Message from sender at main 6'
+2024-04-24 14:41:10,905 - INFO - BY RECEIVER Received message: b'Message from sender at main 6'
+2024-04-24 14:53:47,280 - INFO - Project started
+2024-04-24 14:53:47,356 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:53:47,356 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:53:47,356 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:53:47,356 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:53:50,360 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 14:53:50,360 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 14:53:50,360 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 14:53:50,360 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 14:53:53,363 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 14:53:53,363 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 14:53:53,363 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 14:53:53,363 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 14:53:56,364 - INFO - Sent message inside send for logg message: Message from sender at main 4
+2024-04-24 14:53:56,364 - INFO - Sent message inside send for logg message: Message from sender at main 4
+2024-04-24 14:53:56,364 - INFO - Sent message inside send for logg message: Message from sender at main 4
+2024-04-24 14:53:56,364 - INFO - Sent message inside send for logg message: Message from sender at main 4
+2024-04-24 14:53:59,367 - INFO - Sent message inside send for logg message: Message from sender at main 5
+2024-04-24 14:53:59,367 - INFO - Sent message inside send for logg message: Message from sender at main 5
+2024-04-24 14:53:59,367 - INFO - Sent message inside send for logg message: Message from sender at main 5
+2024-04-24 14:53:59,367 - INFO - Sent message inside send for logg message: Message from sender at main 5
+2024-04-24 14:54:02,370 - INFO - Sent message inside send for logg message: Message from sender at main 6
+2024-04-24 14:54:02,370 - INFO - Sent message inside send for logg message: Message from sender at main 6
+2024-04-24 14:54:02,370 - INFO - Sent message inside send for logg message: Message from sender at main 6
+2024-04-24 14:54:02,370 - INFO - Sent message inside send for logg message: Message from sender at main 6
+2024-04-24 14:54:05,380 - INFO - Sent message inside send for logg message: Message from sender at main 7
+2024-04-24 14:54:05,380 - INFO - Sent message inside send for logg message: Message from sender at main 7
+2024-04-24 14:54:05,380 - INFO - Sent message inside send for logg message: Message from sender at main 7
+2024-04-24 14:54:05,380 - INFO - Sent message inside send for logg message: Message from sender at main 7
+2024-04-24 14:54:08,381 - INFO - Sent message inside send for logg message: Message from sender at main 8
+2024-04-24 14:54:08,381 - INFO - Sent message inside send for logg message: Message from sender at main 8
+2024-04-24 14:54:08,381 - INFO - Sent message inside send for logg message: Message from sender at main 8
+2024-04-24 14:54:08,381 - INFO - Sent message inside send for logg message: Message from sender at main 8
+2024-04-24 14:54:11,384 - INFO - Sent message inside send for logg message: Message from sender at main 9
+2024-04-24 14:54:11,384 - INFO - Sent message inside send for logg message: Message from sender at main 9
+2024-04-24 14:54:11,384 - INFO - Sent message inside send for logg message: Message from sender at main 9
+2024-04-24 14:54:11,384 - INFO - Sent message inside send for logg message: Message from sender at main 9
+2024-04-24 14:54:53,971 - INFO - Project started
+2024-04-24 14:54:54,027 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:54:54,027 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:54:54,027 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:54:54,027 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:54:57,029 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 14:54:57,029 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 14:54:57,029 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 14:54:57,029 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 14:55:00,032 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 14:55:00,032 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 14:55:00,032 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 14:55:00,032 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 14:55:03,035 - INFO - Sent message inside send for logg message: Message from sender at main 4
+2024-04-24 14:55:03,035 - INFO - Sent message inside send for logg message: Message from sender at main 4
+2024-04-24 14:55:03,035 - INFO - Sent message inside send for logg message: Message from sender at main 4
+2024-04-24 14:55:03,035 - INFO - Sent message inside send for logg message: Message from sender at main 4
+2024-04-24 14:55:06,038 - INFO - Sent message inside send for logg message: Message from sender at main 5
+2024-04-24 14:55:06,038 - INFO - Sent message inside send for logg message: Message from sender at main 5
+2024-04-24 14:55:06,038 - INFO - Sent message inside send for logg message: Message from sender at main 5
+2024-04-24 14:55:06,038 - INFO - Sent message inside send for logg message: Message from sender at main 5
+2024-04-24 14:55:09,040 - INFO - Sent message inside send for logg message: Message from sender at main 6
+2024-04-24 14:55:09,040 - INFO - Sent message inside send for logg message: Message from sender at main 6
+2024-04-24 14:55:09,040 - INFO - Sent message inside send for logg message: Message from sender at main 6
+2024-04-24 14:55:09,040 - INFO - Sent message inside send for logg message: Message from sender at main 6
+2024-04-24 14:55:12,043 - INFO - Sent message inside send for logg message: Message from sender at main 7
+2024-04-24 14:55:12,043 - INFO - Sent message inside send for logg message: Message from sender at main 7
+2024-04-24 14:55:12,043 - INFO - Sent message inside send for logg message: Message from sender at main 7
+2024-04-24 14:55:12,043 - INFO - Sent message inside send for logg message: Message from sender at main 7
+2024-04-24 14:55:15,046 - INFO - Sent message inside send for logg message: Message from sender at main 8
+2024-04-24 14:55:15,046 - INFO - Sent message inside send for logg message: Message from sender at main 8
+2024-04-24 14:55:15,046 - INFO - Sent message inside send for logg message: Message from sender at main 8
+2024-04-24 14:55:15,046 - INFO - Sent message inside send for logg message: Message from sender at main 8
+2024-04-24 14:55:18,048 - INFO - Sent message inside send for logg message: Message from sender at main 9
+2024-04-24 14:55:18,048 - INFO - Sent message inside send for logg message: Message from sender at main 9
+2024-04-24 14:55:18,048 - INFO - Sent message inside send for logg message: Message from sender at main 9
+2024-04-24 14:55:18,048 - INFO - Sent message inside send for logg message: Message from sender at main 9
+2024-04-24 14:55:21,052 - INFO - Sent message inside send for logg message: Message from sender at main 10
+2024-04-24 14:55:21,052 - INFO - Sent message inside send for logg message: Message from sender at main 10
+2024-04-24 14:55:21,052 - INFO - Sent message inside send for logg message: Message from sender at main 10
+2024-04-24 14:55:21,052 - INFO - Sent message inside send for logg message: Message from sender at main 10
+2024-04-24 14:55:24,054 - INFO - Sent message inside send for logg message: Message from sender at main 11
+2024-04-24 14:55:24,054 - INFO - Sent message inside send for logg message: Message from sender at main 11
+2024-04-24 14:55:24,054 - INFO - Sent message inside send for logg message: Message from sender at main 11
+2024-04-24 14:55:24,054 - INFO - Sent message inside send for logg message: Message from sender at main 11
+2024-04-24 14:55:27,057 - INFO - Sent message inside send for logg message: Message from sender at main 12
+2024-04-24 14:55:27,057 - INFO - Sent message inside send for logg message: Message from sender at main 12
+2024-04-24 14:55:27,057 - INFO - Sent message inside send for logg message: Message from sender at main 12
+2024-04-24 14:55:27,057 - INFO - Sent message inside send for logg message: Message from sender at main 12
+2024-04-24 14:55:30,060 - INFO - Sent message inside send for logg message: Message from sender at main 13
+2024-04-24 14:55:30,060 - INFO - Sent message inside send for logg message: Message from sender at main 13
+2024-04-24 14:55:30,060 - INFO - Sent message inside send for logg message: Message from sender at main 13
+2024-04-24 14:55:30,060 - INFO - Sent message inside send for logg message: Message from sender at main 13
+2024-04-24 14:55:33,063 - INFO - Sent message inside send for logg message: Message from sender at main 14
+2024-04-24 14:55:33,063 - INFO - Sent message inside send for logg message: Message from sender at main 14
+2024-04-24 14:55:33,063 - INFO - Sent message inside send for logg message: Message from sender at main 14
+2024-04-24 14:55:33,063 - INFO - Sent message inside send for logg message: Message from sender at main 14
+2024-04-24 14:55:36,067 - INFO - Sent message inside send for logg message: Message from sender at main 15
+2024-04-24 14:55:36,067 - INFO - Sent message inside send for logg message: Message from sender at main 15
+2024-04-24 14:55:36,067 - INFO - Sent message inside send for logg message: Message from sender at main 15
+2024-04-24 14:55:36,067 - INFO - Sent message inside send for logg message: Message from sender at main 15
+2024-04-24 14:55:39,068 - INFO - Sent message inside send for logg message: Message from sender at main 16
+2024-04-24 14:55:39,068 - INFO - Sent message inside send for logg message: Message from sender at main 16
+2024-04-24 14:55:39,068 - INFO - Sent message inside send for logg message: Message from sender at main 16
+2024-04-24 14:55:39,068 - INFO - Sent message inside send for logg message: Message from sender at main 16
+2024-04-24 14:55:42,071 - INFO - Sent message inside send for logg message: Message from sender at main 17
+2024-04-24 14:55:42,071 - INFO - Sent message inside send for logg message: Message from sender at main 17
+2024-04-24 14:55:42,071 - INFO - Sent message inside send for logg message: Message from sender at main 17
+2024-04-24 14:55:42,071 - INFO - Sent message inside send for logg message: Message from sender at main 17
+2024-04-24 14:55:45,074 - INFO - Sent message inside send for logg message: Message from sender at main 18
+2024-04-24 14:55:45,074 - INFO - Sent message inside send for logg message: Message from sender at main 18
+2024-04-24 14:55:45,074 - INFO - Sent message inside send for logg message: Message from sender at main 18
+2024-04-24 14:55:45,074 - INFO - Sent message inside send for logg message: Message from sender at main 18
+2024-04-24 14:55:48,076 - INFO - Sent message inside send for logg message: Message from sender at main 19
+2024-04-24 14:55:48,076 - INFO - Sent message inside send for logg message: Message from sender at main 19
+2024-04-24 14:55:48,076 - INFO - Sent message inside send for logg message: Message from sender at main 19
+2024-04-24 14:55:48,076 - INFO - Sent message inside send for logg message: Message from sender at main 19
+2024-04-24 14:55:51,081 - INFO - Sent message inside send for logg message: Message from sender at main 20
+2024-04-24 14:55:51,081 - INFO - Sent message inside send for logg message: Message from sender at main 20
+2024-04-24 14:55:51,081 - INFO - Sent message inside send for logg message: Message from sender at main 20
+2024-04-24 14:55:51,081 - INFO - Sent message inside send for logg message: Message from sender at main 20
+2024-04-24 14:55:54,084 - INFO - Sent message inside send for logg message: Message from sender at main 21
+2024-04-24 14:55:54,084 - INFO - Sent message inside send for logg message: Message from sender at main 21
+2024-04-24 14:55:54,084 - INFO - Sent message inside send for logg message: Message from sender at main 21
+2024-04-24 14:55:54,084 - INFO - Sent message inside send for logg message: Message from sender at main 21
+2024-04-24 14:55:57,085 - INFO - Sent message inside send for logg message: Message from sender at main 22
+2024-04-24 14:55:57,085 - INFO - Sent message inside send for logg message: Message from sender at main 22
+2024-04-24 14:55:57,085 - INFO - Sent message inside send for logg message: Message from sender at main 22
+2024-04-24 14:55:57,085 - INFO - Sent message inside send for logg message: Message from sender at main 22
+2024-04-24 14:56:00,089 - INFO - Sent message inside send for logg message: Message from sender at main 23
+2024-04-24 14:56:00,089 - INFO - Sent message inside send for logg message: Message from sender at main 23
+2024-04-24 14:56:00,089 - INFO - Sent message inside send for logg message: Message from sender at main 23
+2024-04-24 14:56:00,089 - INFO - Sent message inside send for logg message: Message from sender at main 23
+2024-04-24 14:56:03,091 - INFO - Sent message inside send for logg message: Message from sender at main 24
+2024-04-24 14:56:03,091 - INFO - Sent message inside send for logg message: Message from sender at main 24
+2024-04-24 14:56:03,091 - INFO - Sent message inside send for logg message: Message from sender at main 24
+2024-04-24 14:56:03,091 - INFO - Sent message inside send for logg message: Message from sender at main 24
+2024-04-24 14:56:06,096 - INFO - Sent message inside send for logg message: Message from sender at main 25
+2024-04-24 14:56:06,096 - INFO - Sent message inside send for logg message: Message from sender at main 25
+2024-04-24 14:56:06,096 - INFO - Sent message inside send for logg message: Message from sender at main 25
+2024-04-24 14:56:06,096 - INFO - Sent message inside send for logg message: Message from sender at main 25
+2024-04-24 14:56:09,097 - INFO - Sent message inside send for logg message: Message from sender at main 26
+2024-04-24 14:56:09,097 - INFO - Sent message inside send for logg message: Message from sender at main 26
+2024-04-24 14:56:09,097 - INFO - Sent message inside send for logg message: Message from sender at main 26
+2024-04-24 14:56:09,097 - INFO - Sent message inside send for logg message: Message from sender at main 26
+2024-04-24 14:56:12,101 - INFO - Sent message inside send for logg message: Message from sender at main 27
+2024-04-24 14:56:12,101 - INFO - Sent message inside send for logg message: Message from sender at main 27
+2024-04-24 14:56:12,101 - INFO - Sent message inside send for logg message: Message from sender at main 27
+2024-04-24 14:56:12,101 - INFO - Sent message inside send for logg message: Message from sender at main 27
+2024-04-24 14:56:15,103 - INFO - Sent message inside send for logg message: Message from sender at main 28
+2024-04-24 14:56:15,103 - INFO - Sent message inside send for logg message: Message from sender at main 28
+2024-04-24 14:56:15,103 - INFO - Sent message inside send for logg message: Message from sender at main 28
+2024-04-24 14:56:15,103 - INFO - Sent message inside send for logg message: Message from sender at main 28
+2024-04-24 14:56:18,106 - INFO - Sent message inside send for logg message: Message from sender at main 29
+2024-04-24 14:56:18,106 - INFO - Sent message inside send for logg message: Message from sender at main 29
+2024-04-24 14:56:18,106 - INFO - Sent message inside send for logg message: Message from sender at main 29
+2024-04-24 14:56:18,106 - INFO - Sent message inside send for logg message: Message from sender at main 29
+2024-04-24 14:56:21,110 - INFO - Sent message inside send for logg message: Message from sender at main 30
+2024-04-24 14:56:21,110 - INFO - Sent message inside send for logg message: Message from sender at main 30
+2024-04-24 14:56:21,110 - INFO - Sent message inside send for logg message: Message from sender at main 30
+2024-04-24 14:56:21,110 - INFO - Sent message inside send for logg message: Message from sender at main 30
+2024-04-24 14:56:24,112 - INFO - Sent message inside send for logg message: Message from sender at main 31
+2024-04-24 14:56:24,112 - INFO - Sent message inside send for logg message: Message from sender at main 31
+2024-04-24 14:56:24,112 - INFO - Sent message inside send for logg message: Message from sender at main 31
+2024-04-24 14:56:24,112 - INFO - Sent message inside send for logg message: Message from sender at main 31
+2024-04-24 14:56:27,115 - INFO - Sent message inside send for logg message: Message from sender at main 32
+2024-04-24 14:56:27,115 - INFO - Sent message inside send for logg message: Message from sender at main 32
+2024-04-24 14:56:27,115 - INFO - Sent message inside send for logg message: Message from sender at main 32
+2024-04-24 14:56:27,115 - INFO - Sent message inside send for logg message: Message from sender at main 32
+2024-04-24 14:56:30,117 - INFO - Sent message inside send for logg message: Message from sender at main 33
+2024-04-24 14:56:30,117 - INFO - Sent message inside send for logg message: Message from sender at main 33
+2024-04-24 14:56:30,117 - INFO - Sent message inside send for logg message: Message from sender at main 33
+2024-04-24 14:56:30,117 - INFO - Sent message inside send for logg message: Message from sender at main 33
+2024-04-24 14:56:33,121 - INFO - Sent message inside send for logg message: Message from sender at main 34
+2024-04-24 14:56:33,121 - INFO - Sent message inside send for logg message: Message from sender at main 34
+2024-04-24 14:56:33,121 - INFO - Sent message inside send for logg message: Message from sender at main 34
+2024-04-24 14:56:33,121 - INFO - Sent message inside send for logg message: Message from sender at main 34
+2024-04-24 14:56:36,125 - INFO - Sent message inside send for logg message: Message from sender at main 35
+2024-04-24 14:56:36,125 - INFO - Sent message inside send for logg message: Message from sender at main 35
+2024-04-24 14:56:36,125 - INFO - Sent message inside send for logg message: Message from sender at main 35
+2024-04-24 14:56:36,125 - INFO - Sent message inside send for logg message: Message from sender at main 35
+2024-04-24 14:56:39,127 - INFO - Sent message inside send for logg message: Message from sender at main 36
+2024-04-24 14:56:39,127 - INFO - Sent message inside send for logg message: Message from sender at main 36
+2024-04-24 14:56:39,127 - INFO - Sent message inside send for logg message: Message from sender at main 36
+2024-04-24 14:56:39,127 - INFO - Sent message inside send for logg message: Message from sender at main 36
+2024-04-24 14:56:42,128 - INFO - Sent message inside send for logg message: Message from sender at main 37
+2024-04-24 14:56:42,128 - INFO - Sent message inside send for logg message: Message from sender at main 37
+2024-04-24 14:56:42,128 - INFO - Sent message inside send for logg message: Message from sender at main 37
+2024-04-24 14:56:42,128 - INFO - Sent message inside send for logg message: Message from sender at main 37
+2024-04-24 14:56:45,131 - INFO - Sent message inside send for logg message: Message from sender at main 38
+2024-04-24 14:56:45,131 - INFO - Sent message inside send for logg message: Message from sender at main 38
+2024-04-24 14:56:45,131 - INFO - Sent message inside send for logg message: Message from sender at main 38
+2024-04-24 14:56:45,131 - INFO - Sent message inside send for logg message: Message from sender at main 38
+2024-04-24 14:56:48,134 - INFO - Sent message inside send for logg message: Message from sender at main 39
+2024-04-24 14:56:48,134 - INFO - Sent message inside send for logg message: Message from sender at main 39
+2024-04-24 14:56:48,134 - INFO - Sent message inside send for logg message: Message from sender at main 39
+2024-04-24 14:56:48,134 - INFO - Sent message inside send for logg message: Message from sender at main 39
+2024-04-24 14:56:57,322 - INFO - Project started
+2024-04-24 14:56:57,406 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:56:57,406 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:56:57,406 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:56:57,406 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:57:00,411 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 14:57:00,411 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 14:57:00,411 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 14:57:00,411 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 14:57:03,414 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 14:57:03,414 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 14:57:03,414 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 14:57:03,414 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 14:57:06,417 - INFO - Sent message inside send for logg message: Message from sender at main 4
+2024-04-24 14:57:06,417 - INFO - Sent message inside send for logg message: Message from sender at main 4
+2024-04-24 14:57:06,417 - INFO - Sent message inside send for logg message: Message from sender at main 4
+2024-04-24 14:57:06,417 - INFO - Sent message inside send for logg message: Message from sender at main 4
+2024-04-24 14:57:09,421 - INFO - Sent message inside send for logg message: Message from sender at main 5
+2024-04-24 14:57:09,421 - INFO - Sent message inside send for logg message: Message from sender at main 5
+2024-04-24 14:57:09,421 - INFO - Sent message inside send for logg message: Message from sender at main 5
+2024-04-24 14:57:09,421 - INFO - Sent message inside send for logg message: Message from sender at main 5
+2024-04-24 14:57:12,424 - INFO - Sent message inside send for logg message: Message from sender at main 6
+2024-04-24 14:57:12,424 - INFO - Sent message inside send for logg message: Message from sender at main 6
+2024-04-24 14:57:12,424 - INFO - Sent message inside send for logg message: Message from sender at main 6
+2024-04-24 14:57:12,424 - INFO - Sent message inside send for logg message: Message from sender at main 6
+2024-04-24 14:57:15,426 - INFO - Sent message inside send for logg message: Message from sender at main 7
+2024-04-24 14:57:15,426 - INFO - Sent message inside send for logg message: Message from sender at main 7
+2024-04-24 14:57:15,426 - INFO - Sent message inside send for logg message: Message from sender at main 7
+2024-04-24 14:57:15,426 - INFO - Sent message inside send for logg message: Message from sender at main 7
+2024-04-24 14:57:18,429 - INFO - Sent message inside send for logg message: Message from sender at main 8
+2024-04-24 14:57:18,429 - INFO - Sent message inside send for logg message: Message from sender at main 8
+2024-04-24 14:57:18,429 - INFO - Sent message inside send for logg message: Message from sender at main 8
+2024-04-24 14:57:18,429 - INFO - Sent message inside send for logg message: Message from sender at main 8
+2024-04-24 14:57:21,431 - INFO - Sent message inside send for logg message: Message from sender at main 9
+2024-04-24 14:57:21,431 - INFO - Sent message inside send for logg message: Message from sender at main 9
+2024-04-24 14:57:21,431 - INFO - Sent message inside send for logg message: Message from sender at main 9
+2024-04-24 14:57:21,431 - INFO - Sent message inside send for logg message: Message from sender at main 9
+2024-04-24 14:57:24,436 - INFO - Sent message inside send for logg message: Message from sender at main 10
+2024-04-24 14:57:24,436 - INFO - Sent message inside send for logg message: Message from sender at main 10
+2024-04-24 14:57:24,436 - INFO - Sent message inside send for logg message: Message from sender at main 10
+2024-04-24 14:57:24,436 - INFO - Sent message inside send for logg message: Message from sender at main 10
+2024-04-24 14:57:27,436 - INFO - Sent message inside send for logg message: Message from sender at main 11
+2024-04-24 14:57:27,436 - INFO - Sent message inside send for logg message: Message from sender at main 11
+2024-04-24 14:57:27,436 - INFO - Sent message inside send for logg message: Message from sender at main 11
+2024-04-24 14:57:27,436 - INFO - Sent message inside send for logg message: Message from sender at main 11
+2024-04-24 14:57:30,439 - INFO - Sent message inside send for logg message: Message from sender at main 12
+2024-04-24 14:57:30,439 - INFO - Sent message inside send for logg message: Message from sender at main 12
+2024-04-24 14:57:30,439 - INFO - Sent message inside send for logg message: Message from sender at main 12
+2024-04-24 14:57:30,439 - INFO - Sent message inside send for logg message: Message from sender at main 12
+2024-04-24 14:57:33,442 - INFO - Sent message inside send for logg message: Message from sender at main 13
+2024-04-24 14:57:33,442 - INFO - Sent message inside send for logg message: Message from sender at main 13
+2024-04-24 14:57:33,442 - INFO - Sent message inside send for logg message: Message from sender at main 13
+2024-04-24 14:57:33,442 - INFO - Sent message inside send for logg message: Message from sender at main 13
+2024-04-24 14:57:36,445 - INFO - Sent message inside send for logg message: Message from sender at main 14
+2024-04-24 14:57:36,445 - INFO - Sent message inside send for logg message: Message from sender at main 14
+2024-04-24 14:57:36,445 - INFO - Sent message inside send for logg message: Message from sender at main 14
+2024-04-24 14:57:36,445 - INFO - Sent message inside send for logg message: Message from sender at main 14
+2024-04-24 14:57:39,448 - INFO - Sent message inside send for logg message: Message from sender at main 15
+2024-04-24 14:57:39,448 - INFO - Sent message inside send for logg message: Message from sender at main 15
+2024-04-24 14:57:39,448 - INFO - Sent message inside send for logg message: Message from sender at main 15
+2024-04-24 14:57:39,448 - INFO - Sent message inside send for logg message: Message from sender at main 15
+2024-04-24 14:57:42,450 - INFO - Sent message inside send for logg message: Message from sender at main 16
+2024-04-24 14:57:42,450 - INFO - Sent message inside send for logg message: Message from sender at main 16
+2024-04-24 14:57:42,450 - INFO - Sent message inside send for logg message: Message from sender at main 16
+2024-04-24 14:57:42,450 - INFO - Sent message inside send for logg message: Message from sender at main 16
+2024-04-24 14:57:45,453 - INFO - Sent message inside send for logg message: Message from sender at main 17
+2024-04-24 14:57:45,453 - INFO - Sent message inside send for logg message: Message from sender at main 17
+2024-04-24 14:57:45,453 - INFO - Sent message inside send for logg message: Message from sender at main 17
+2024-04-24 14:57:45,453 - INFO - Sent message inside send for logg message: Message from sender at main 17
+2024-04-24 14:57:48,456 - INFO - Sent message inside send for logg message: Message from sender at main 18
+2024-04-24 14:57:48,456 - INFO - Sent message inside send for logg message: Message from sender at main 18
+2024-04-24 14:57:48,456 - INFO - Sent message inside send for logg message: Message from sender at main 18
+2024-04-24 14:57:48,456 - INFO - Sent message inside send for logg message: Message from sender at main 18
+2024-04-24 14:57:51,459 - INFO - Sent message inside send for logg message: Message from sender at main 19
+2024-04-24 14:57:51,459 - INFO - Sent message inside send for logg message: Message from sender at main 19
+2024-04-24 14:57:51,459 - INFO - Sent message inside send for logg message: Message from sender at main 19
+2024-04-24 14:57:51,459 - INFO - Sent message inside send for logg message: Message from sender at main 19
+2024-04-24 14:57:54,462 - INFO - Sent message inside send for logg message: Message from sender at main 20
+2024-04-24 14:57:54,462 - INFO - Sent message inside send for logg message: Message from sender at main 20
+2024-04-24 14:57:54,462 - INFO - Sent message inside send for logg message: Message from sender at main 20
+2024-04-24 14:57:54,462 - INFO - Sent message inside send for logg message: Message from sender at main 20
+2024-04-24 14:57:57,465 - INFO - Sent message inside send for logg message: Message from sender at main 21
+2024-04-24 14:57:57,465 - INFO - Sent message inside send for logg message: Message from sender at main 21
+2024-04-24 14:57:57,465 - INFO - Sent message inside send for logg message: Message from sender at main 21
+2024-04-24 14:57:57,465 - INFO - Sent message inside send for logg message: Message from sender at main 21
+2024-04-24 14:58:00,468 - INFO - Sent message inside send for logg message: Message from sender at main 22
+2024-04-24 14:58:00,468 - INFO - Sent message inside send for logg message: Message from sender at main 22
+2024-04-24 14:58:00,468 - INFO - Sent message inside send for logg message: Message from sender at main 22
+2024-04-24 14:58:00,468 - INFO - Sent message inside send for logg message: Message from sender at main 22
+2024-04-24 14:58:03,471 - INFO - Sent message inside send for logg message: Message from sender at main 23
+2024-04-24 14:58:03,471 - INFO - Sent message inside send for logg message: Message from sender at main 23
+2024-04-24 14:58:03,471 - INFO - Sent message inside send for logg message: Message from sender at main 23
+2024-04-24 14:58:03,471 - INFO - Sent message inside send for logg message: Message from sender at main 23
+2024-04-24 14:58:06,473 - INFO - Sent message inside send for logg message: Message from sender at main 24
+2024-04-24 14:58:06,473 - INFO - Sent message inside send for logg message: Message from sender at main 24
+2024-04-24 14:58:06,473 - INFO - Sent message inside send for logg message: Message from sender at main 24
+2024-04-24 14:58:06,473 - INFO - Sent message inside send for logg message: Message from sender at main 24
+2024-04-24 14:58:09,480 - INFO - Sent message inside send for logg message: Message from sender at main 25
+2024-04-24 14:58:09,480 - INFO - Sent message inside send for logg message: Message from sender at main 25
+2024-04-24 14:58:09,480 - INFO - Sent message inside send for logg message: Message from sender at main 25
+2024-04-24 14:58:09,480 - INFO - Sent message inside send for logg message: Message from sender at main 25
+2024-04-24 14:58:12,484 - INFO - Sent message inside send for logg message: Message from sender at main 26
+2024-04-24 14:58:12,484 - INFO - Sent message inside send for logg message: Message from sender at main 26
+2024-04-24 14:58:12,484 - INFO - Sent message inside send for logg message: Message from sender at main 26
+2024-04-24 14:58:12,484 - INFO - Sent message inside send for logg message: Message from sender at main 26
+2024-04-24 14:58:15,487 - INFO - Sent message inside send for logg message: Message from sender at main 27
+2024-04-24 14:58:15,487 - INFO - Sent message inside send for logg message: Message from sender at main 27
+2024-04-24 14:58:15,487 - INFO - Sent message inside send for logg message: Message from sender at main 27
+2024-04-24 14:58:15,487 - INFO - Sent message inside send for logg message: Message from sender at main 27
+2024-04-24 14:58:18,488 - INFO - Sent message inside send for logg message: Message from sender at main 28
+2024-04-24 14:58:18,488 - INFO - Sent message inside send for logg message: Message from sender at main 28
+2024-04-24 14:58:18,488 - INFO - Sent message inside send for logg message: Message from sender at main 28
+2024-04-24 14:58:18,488 - INFO - Sent message inside send for logg message: Message from sender at main 28
+2024-04-24 14:59:59,549 - INFO - Project started
+2024-04-24 14:59:59,658 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:59:59,658 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:59:59,658 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 14:59:59,658 - INFO - Sent message inside send for logg message: Message from sender at main 1
+2024-04-24 15:00:02,661 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 15:00:02,661 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 15:00:02,661 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 15:00:02,661 - INFO - Sent message inside send for logg message: Message from sender at main 2
+2024-04-24 15:00:05,666 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 15:00:05,666 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 15:00:05,666 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 15:00:05,666 - INFO - Sent message inside send for logg message: Message from sender at main 3
+2024-04-24 15:00:08,667 - INFO - Sent message inside send for logg message: Message from sender at main 4
+2024-04-24 15:00:08,667 - INFO - Sent message inside send for logg message: Message from sender at main 4
+2024-04-24 15:00:08,667 - INFO - Sent message inside send for logg message: Message from sender at main 4
+2024-04-24 15:00:08,667 - INFO - Sent message inside send for logg message: Message from sender at main 4
+2024-04-24 15:00:11,670 - INFO - Sent message inside send for logg message: Message from sender at main 5
+2024-04-24 15:00:11,670 - INFO - Sent message inside send for logg message: Message from sender at main 5
+2024-04-24 15:00:11,670 - INFO - Sent message inside send for logg message: Message from sender at main 5
+2024-04-24 15:00:11,670 - INFO - Sent message inside send for logg message: Message from sender at main 5
+2024-04-24 15:00:14,673 - INFO - Sent message inside send for logg message: Message from sender at main 6
+2024-04-24 15:00:14,673 - INFO - Sent message inside send for logg message: Message from sender at main 6
+2024-04-24 15:00:14,673 - INFO - Sent message inside send for logg message: Message from sender at main 6
+2024-04-24 15:00:14,673 - INFO - Sent message inside send for logg message: Message from sender at main 6
+2024-04-24 15:00:17,676 - INFO - Sent message inside send for logg message: Message from sender at main 7
+2024-04-24 15:00:17,676 - INFO - Sent message inside send for logg message: Message from sender at main 7
+2024-04-24 15:00:17,676 - INFO - Sent message inside send for logg message: Message from sender at main 7
+2024-04-24 15:00:17,676 - INFO - Sent message inside send for logg message: Message from sender at main 7
+2024-04-24 15:00:20,680 - INFO - Sent message inside send for logg message: Message from sender at main 8
+2024-04-24 15:00:20,680 - INFO - Sent message inside send for logg message: Message from sender at main 8
+2024-04-24 15:00:20,680 - INFO - Sent message inside send for logg message: Message from sender at main 8
+2024-04-24 15:00:20,680 - INFO - Sent message inside send for logg message: Message from sender at main 8
+2024-04-24 15:00:23,682 - INFO - Sent message inside send for logg message: Message from sender at main 9
+2024-04-24 15:00:23,682 - INFO - Sent message inside send for logg message: Message from sender at main 9
+2024-04-24 15:00:23,682 - INFO - Sent message inside send for logg message: Message from sender at main 9
+2024-04-24 15:00:23,682 - INFO - Sent message inside send for logg message: Message from sender at main 9
+2024-04-24 15:00:26,685 - INFO - Sent message inside send for logg message: Message from sender at main 10
+2024-04-24 15:00:26,685 - INFO - Sent message inside send for logg message: Message from sender at main 10
+2024-04-24 15:00:26,685 - INFO - Sent message inside send for logg message: Message from sender at main 10
+2024-04-24 15:00:26,685 - INFO - Sent message inside send for logg message: Message from sender at main 10
+2024-04-24 15:00:29,688 - INFO - Sent message inside send for logg message: Message from sender at main 11
+2024-04-24 15:00:29,688 - INFO - Sent message inside send for logg message: Message from sender at main 11
+2024-04-24 15:00:29,688 - INFO - Sent message inside send for logg message: Message from sender at main 11
+2024-04-24 15:00:29,688 - INFO - Sent message inside send for logg message: Message from sender at main 11
+2024-04-24 15:00:32,691 - INFO - Sent message inside send for logg message: Message from sender at main 12
+2024-04-24 15:00:32,691 - INFO - Sent message inside send for logg message: Message from sender at main 12
+2024-04-24 15:00:32,691 - INFO - Sent message inside send for logg message: Message from sender at main 12
+2024-04-24 15:00:32,691 - INFO - Sent message inside send for logg message: Message from sender at main 12
+2024-04-24 15:01:27,904 - INFO - Project started
+2024-04-24 15:02:45,728 - INFO - Project started
+2024-04-24 15:05:16,341 - INFO - Project started
+2024-04-24 15:05:36,556 - INFO - Project started
+2024-04-24 15:06:42,755 - INFO - Project started
+2024-04-24 15:06:42,837 - INFO - BY RECEIVER Received message: b'B\x0c\x06\x00\x01\x01\x04\x05\x06Hello\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-04-24 15:06:42,837 - INFO - BY RECEIVER Received message: b'B\x0c\x06\x00\x01\x01\x04\x05\x06Hello\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-04-24 15:06:42,837 - INFO - BY RECEIVER Received message: b'B\x0c\x06\x00\x01\x01\x04\x05\x06Hello\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-04-24 15:06:42,837 - INFO - BY RECEIVER Received message: b'B\x0c\x06\x00\x01\x01\x04\x05\x06Hello\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-04-24 15:22:28,585 - INFO - Project started
+2024-04-24 15:29:40,719 - INFO - Project started
+2024-04-24 15:31:18,723 - INFO - Project started
+2024-04-24 15:33:12,531 - INFO - BY RECEIVER Received message: b'\x01\x04\x14o\x02\x00\x00p\x00\x00\x00\x9bB\x98\xfe\x7f\x00\x00+#$\x91E\x7f\x00\x00\xc0\xb4\xd9\x00\xa0\x9aB\x98\xfe\x7f\x00\x00\x00\x80O\x8fE\x7f\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00Of?\x8fE\x7f\x00\x00p\xaf\xb4\x03\x00\x00\x00\x00p\xde\xd8\x03\x00\x00\x00\x00p\x99B\x98\xfe\x7f\x00\x00\xc9!@\x8fE\x7f\x00\x00p\xde\xd8\x03\x00\x00\x00\x00\xb0x\xcb\x03\x00\x00\x00\x00\xb0\xbc\xb4\x03\x00\x00\x00\x00p\xaf\xb4\x03\x00\x00\x00\x00p\xde\xd8\x03\x00\x00\x00\x00|\xca\x0c\x91E\x7f\x00\x00\x90\x99B\x98\xfe\x7f\x00\x00p\xde\xd8\x03\x00\x00\x00\x00\t\x00\x00\x00\xfe\x7f\x00\x00\xd0\xa8B\x98\xfe\x7f\x00\x00p'
+2024-04-24 15:33:12,531 - INFO - BY RECEIVER Received message: b'\x01\x04\x14o\x02\x00\x00p\x00\x00\x00\x9bB\x98\xfe\x7f\x00\x00+#$\x91E\x7f\x00\x00\xc0\xb4\xd9\x00\xa0\x9aB\x98\xfe\x7f\x00\x00\x00\x80O\x8fE\x7f\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00Of?\x8fE\x7f\x00\x00p\xaf\xb4\x03\x00\x00\x00\x00p\xde\xd8\x03\x00\x00\x00\x00p\x99B\x98\xfe\x7f\x00\x00\xc9!@\x8fE\x7f\x00\x00p\xde\xd8\x03\x00\x00\x00\x00\xb0x\xcb\x03\x00\x00\x00\x00\xb0\xbc\xb4\x03\x00\x00\x00\x00p\xaf\xb4\x03\x00\x00\x00\x00p\xde\xd8\x03\x00\x00\x00\x00|\xca\x0c\x91E\x7f\x00\x00\x90\x99B\x98\xfe\x7f\x00\x00p\xde\xd8\x03\x00\x00\x00\x00\t\x00\x00\x00\xfe\x7f\x00\x00\xd0\xa8B\x98\xfe\x7f\x00\x00p'
+2024-04-24 15:33:12,531 - INFO - BY RECEIVER Received message: b'\x01\x04\x14o\x02\x00\x00p\x00\x00\x00\x9bB\x98\xfe\x7f\x00\x00+#$\x91E\x7f\x00\x00\xc0\xb4\xd9\x00\xa0\x9aB\x98\xfe\x7f\x00\x00\x00\x80O\x8fE\x7f\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00Of?\x8fE\x7f\x00\x00p\xaf\xb4\x03\x00\x00\x00\x00p\xde\xd8\x03\x00\x00\x00\x00p\x99B\x98\xfe\x7f\x00\x00\xc9!@\x8fE\x7f\x00\x00p\xde\xd8\x03\x00\x00\x00\x00\xb0x\xcb\x03\x00\x00\x00\x00\xb0\xbc\xb4\x03\x00\x00\x00\x00p\xaf\xb4\x03\x00\x00\x00\x00p\xde\xd8\x03\x00\x00\x00\x00|\xca\x0c\x91E\x7f\x00\x00\x90\x99B\x98\xfe\x7f\x00\x00p\xde\xd8\x03\x00\x00\x00\x00\t\x00\x00\x00\xfe\x7f\x00\x00\xd0\xa8B\x98\xfe\x7f\x00\x00p'
+2024-04-24 15:33:12,531 - INFO - BY RECEIVER Received message: b'\x01\x04\x14o\x02\x00\x00p\x00\x00\x00\x9bB\x98\xfe\x7f\x00\x00+#$\x91E\x7f\x00\x00\xc0\xb4\xd9\x00\xa0\x9aB\x98\xfe\x7f\x00\x00\x00\x80O\x8fE\x7f\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00Of?\x8fE\x7f\x00\x00p\xaf\xb4\x03\x00\x00\x00\x00p\xde\xd8\x03\x00\x00\x00\x00p\x99B\x98\xfe\x7f\x00\x00\xc9!@\x8fE\x7f\x00\x00p\xde\xd8\x03\x00\x00\x00\x00\xb0x\xcb\x03\x00\x00\x00\x00\xb0\xbc\xb4\x03\x00\x00\x00\x00p\xaf\xb4\x03\x00\x00\x00\x00p\xde\xd8\x03\x00\x00\x00\x00|\xca\x0c\x91E\x7f\x00\x00\x90\x99B\x98\xfe\x7f\x00\x00p\xde\xd8\x03\x00\x00\x00\x00\t\x00\x00\x00\xfe\x7f\x00\x00\xd0\xa8B\x98\xfe\x7f\x00\x00p'
+2024-04-24 15:34:40,432 - INFO - Project started

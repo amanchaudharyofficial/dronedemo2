@@ -1,0 +1,109 @@
+2024-07-23 10:42:04,829 - INFO - Project started
+2024-07-23 10:52:54,472 - INFO - Project started
+2024-07-23 10:53:34,008 - INFO - Project started
+2024-07-23 10:54:11,348 - INFO - Project started
+2024-07-23 10:55:26,472 - INFO - Project started
+2024-07-23 10:57:37,996 - INFO - Project started
+2024-07-23 10:59:00,084 - INFO - Project started
+2024-07-23 11:07:41,134 - INFO - Project started
+2024-07-23 11:10:10,201 - INFO - Project started
+2024-07-23 11:11:30,079 - INFO - Project started
+2024-07-23 11:19:56,185 - INFO - Project started
+2024-07-23 11:22:43,694 - INFO - Project started
+2024-07-23 11:33:22,847 - INFO - Project started
+2024-07-23 13:58:32,152 - INFO - Project started
+2024-07-23 14:10:40,061 - INFO - Project started
+2024-07-23 14:22:02,682 - INFO - Project started
+2024-07-23 14:22:20,181 - INFO - Project started
+2024-07-23 14:22:30,014 - INFO - Project started
+2024-07-23 14:24:24,116 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-07-23 14:24:24,116 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-07-23 14:24:24,116 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-07-23 14:24:24,116 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-07-23 14:24:24,805 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01\x00\x00\x00'
+2024-07-23 14:24:24,805 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01\x00\x00\x00'
+2024-07-23 14:24:24,805 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01\x00\x00\x00'
+2024-07-23 14:24:24,805 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01\x00\x00\x00'
+2024-07-23 14:25:08,286 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01\x00\x00\x00'
+2024-07-23 14:25:08,286 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01\x00\x00\x00'
+2024-07-23 14:25:08,286 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01\x00\x00\x00'
+2024-07-23 14:25:08,286 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01\x00\x00\x00'
+2024-07-23 14:25:15,648 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-07-23 14:25:15,648 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-07-23 14:25:15,648 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-07-23 14:25:15,648 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-07-23 14:27:51,494 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01\x00\x00\x00'
+2024-07-23 14:27:51,494 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01\x00\x00\x00'
+2024-07-23 14:27:51,494 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01\x00\x00\x00'
+2024-07-23 14:27:51,494 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01\x00\x00\x00'
+2024-07-23 14:27:53,722 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-07-23 14:27:53,722 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-07-23 14:27:53,722 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-07-23 14:27:53,722 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-07-23 14:34:47,190 - INFO - Project started
+2024-07-23 14:36:21,773 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-07-23 14:36:21,773 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-07-23 14:36:21,773 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-07-23 14:36:21,773 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-07-23 14:37:42,779 - INFO - Project started
+2024-07-23 14:38:40,428 - INFO - Project started
+2024-07-23 14:38:55,674 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01\x00\x00\x00'
+2024-07-23 14:38:55,674 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01\x00\x00\x00'
+2024-07-23 14:38:55,674 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01\x00\x00\x00'
+2024-07-23 14:38:55,674 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01\x00\x00\x00'
+2024-07-23 14:39:22,666 - INFO - Project started
+2024-07-23 14:40:13,168 - INFO - Project started
+2024-07-23 14:42:20,421 - INFO - Project started
+2024-07-23 16:04:59,367 - INFO - Project started
+2024-07-23 16:05:21,506 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01\x00\x00\x00'
+2024-07-23 16:05:21,506 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01\x00\x00\x00'
+2024-07-23 16:05:21,506 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01\x00\x00\x00'
+2024-07-23 16:05:21,506 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01\x00\x00\x00'
+2024-07-23 16:05:22,445 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-07-23 16:05:22,445 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-07-23 16:05:22,445 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-07-23 16:05:22,445 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-07-23 16:53:32,895 - INFO - Project started
+2024-07-23 16:53:35,663 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-07-23 16:53:35,663 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-07-23 16:53:35,663 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-07-23 16:53:35,663 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-07-23 16:53:36,609 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01\x00\x00\x00'
+2024-07-23 16:53:36,609 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01\x00\x00\x00'
+2024-07-23 16:53:36,609 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01\x00\x00\x00'
+2024-07-23 16:53:36,609 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01\x00\x00\x00'
+2024-07-23 16:57:42,590 - INFO - Project started
+2024-07-23 16:59:35,028 - INFO - Project started
+2024-07-23 17:01:06,367 - INFO - Project started
+2024-07-23 17:53:45,431 - INFO - Project started
+2024-07-23 17:53:58,893 - INFO - Project started
+2024-07-23 17:55:14,880 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01\x00\x00\x00'
+2024-07-23 17:55:14,880 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01\x00\x00\x00'
+2024-07-23 17:55:14,880 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01\x00\x00\x00'
+2024-07-23 17:55:14,880 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01\x00\x00\x00'
+2024-07-23 17:55:31,533 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-07-23 17:55:31,533 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-07-23 17:55:31,533 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-07-23 17:55:31,533 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-07-23 17:56:32,429 - INFO - Project started
+2024-07-23 17:56:49,853 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01\x00\x00\x00'
+2024-07-23 17:56:49,853 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01\x00\x00\x00'
+2024-07-23 17:56:49,853 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01\x00\x00\x00'
+2024-07-23 17:56:49,853 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01\x00\x00\x00'
+2024-07-23 17:56:53,270 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-07-23 17:56:53,270 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-07-23 17:56:53,270 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-07-23 17:56:53,270 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-07-23 18:03:37,627 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01\x00\x00\x00'
+2024-07-23 18:03:37,627 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01\x00\x00\x00'
+2024-07-23 18:03:37,627 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01\x00\x00\x00'
+2024-07-23 18:03:37,627 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01\x00\x00\x00'
+2024-07-23 18:04:17,657 - INFO - Project started
+2024-07-23 18:17:58,416 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01\x00\x00\x00'
+2024-07-23 18:17:58,416 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01\x00\x00\x00'
+2024-07-23 18:17:58,416 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01\x00\x00\x00'
+2024-07-23 18:17:58,416 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01\x00\x00\x00'
+2024-07-23 18:20:01,423 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01\x00\x00\x00'
+2024-07-23 18:20:01,423 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01\x00\x00\x00'
+2024-07-23 18:20:01,423 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01\x00\x00\x00'
+2024-07-23 18:20:01,423 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01\x00\x00\x00'

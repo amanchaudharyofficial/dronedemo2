@@ -1,0 +1,24 @@
+2024-06-14 11:17:45,918 - INFO - Project started
+2024-06-14 11:31:52,522 - INFO - Project started
+2024-06-14 11:33:13,169 - INFO - Project started
+2024-06-14 11:41:31,709 - INFO - Project started
+2024-06-14 11:44:23,831 - INFO - Project started
+2024-06-14 14:59:49,523 - INFO - Project started
+2024-06-14 15:01:48,462 - INFO - Project started
+2024-06-14 15:01:58,569 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01'
+2024-06-14 15:01:58,569 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01'
+2024-06-14 15:01:58,569 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01'
+2024-06-14 15:01:58,569 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01'
+2024-06-14 15:15:54,909 - INFO - Project started
+2024-06-14 15:19:00,215 - INFO - BY RECEIVER Received message: b'\x01\n\x14\x00\x00\x00\x00\x01'
+2024-06-14 15:19:00,215 - INFO - BY RECEIVER Received message: b'\x01\n\x14\x00\x00\x00\x00\x01'
+2024-06-14 15:19:00,215 - INFO - BY RECEIVER Received message: b'\x01\n\x14\x00\x00\x00\x00\x01'
+2024-06-14 15:19:00,215 - INFO - BY RECEIVER Received message: b'\x01\n\x14\x00\x00\x00\x00\x01'
+2024-06-14 15:19:04,129 - INFO - BY RECEIVER Received message: b'\x01\n\x14\x00\x00\x00\x00\x00'
+2024-06-14 15:19:04,129 - INFO - BY RECEIVER Received message: b'\x01\n\x14\x00\x00\x00\x00\x00'
+2024-06-14 15:19:04,129 - INFO - BY RECEIVER Received message: b'\x01\n\x14\x00\x00\x00\x00\x00'
+2024-06-14 15:19:04,129 - INFO - BY RECEIVER Received message: b'\x01\n\x14\x00\x00\x00\x00\x00'
+2024-06-14 15:30:01,075 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01'
+2024-06-14 15:30:01,075 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01'
+2024-06-14 15:30:01,075 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01'
+2024-06-14 15:30:01,075 - INFO - BY RECEIVER Received message: b'\x01\n1\x00\x00\x00\x00\x01'
